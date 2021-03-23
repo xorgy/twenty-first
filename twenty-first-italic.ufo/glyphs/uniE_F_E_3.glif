@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEFE3" format="2">
+  <advance width="717"/>
+  <unicode hex="EFE3"/>
+  <outline>
+    <contour>
+      <point x="312" y="-247" type="line"/>
+      <point x="414" y="-247" type="line"/>
+      <point x="414" y="385" type="line" smooth="yes"/>
+      <point x="414" y="542"/>
+      <point x="417" y="569"/>
+      <point x="443" y="629" type="curve" smooth="yes"/>
+      <point x="466" y="679"/>
+      <point x="510" y="708"/>
+      <point x="581" y="721" type="curve"/>
+      <point x="581" y="749" type="line"/>
+      <point x="497" y="750"/>
+      <point x="418" y="721"/>
+      <point x="373" y="673" type="curve" smooth="yes"/>
+      <point x="326" y="620"/>
+      <point x="312" y="564"/>
+      <point x="312" y="439" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

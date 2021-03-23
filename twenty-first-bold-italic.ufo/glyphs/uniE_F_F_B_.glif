@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEFFB" format="2">
+  <advance width="993"/>
+  <unicode hex="EFFB"/>
+  <outline>
+    <contour>
+      <point x="141" y="0" type="line"/>
+      <point x="852" y="0" type="line"/>
+      <point x="852" y="711" type="line"/>
+      <point x="141" y="711" type="line"/>
+    </contour>
+  </outline>
+</glyph>

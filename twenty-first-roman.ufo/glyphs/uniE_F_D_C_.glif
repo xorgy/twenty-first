@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEFDC" format="2">
+  <advance width="717"/>
+  <unicode hex="EFDC"/>
+  <outline>
+    <contour>
+      <point x="87" y="97" type="line"/>
+      <point x="94" y="83" type="line"/>
+      <point x="123" y="97" type="line"/>
+      <point x="326" y="-199" type="line"/>
+      <point x="398" y="-199" type="line"/>
+      <point x="398" y="883" type="line"/>
+      <point x="319" y="883" type="line"/>
+      <point x="319" y="-75" type="line"/>
+      <point x="167" y="148" type="line"/>
+    </contour>
+  </outline>
+</glyph>

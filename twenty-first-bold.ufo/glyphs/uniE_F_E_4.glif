@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEFE4" format="2">
+  <advance width="717"/>
+  <unicode hex="EFE4"/>
+  <outline>
+    <contour>
+      <point x="0" y="-192" type="line"/>
+      <point x="399" y="-192" type="line"/>
+      <point x="399" y="883" type="line"/>
+      <point x="320" y="883" type="line"/>
+      <point x="320" y="-113" type="line"/>
+      <point x="0" y="-113" type="line"/>
+    </contour>
+  </outline>
+</glyph>
