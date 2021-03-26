@@ -3,11 +3,6 @@
   <advance width="333"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="42" y="278" type="line"/>
-      <point x="42" y="195" type="line"/>
-      <point x="291" y="195" type="line"/>
-      <point x="291" y="278" type="line"/>
-    </contour>
+    <component base="hyphen"/>
   </outline>
 </glyph>
