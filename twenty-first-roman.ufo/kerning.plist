@@ -86,8 +86,6 @@
     <integer>-33</integer>
     <key>guilsinglleft</key>
     <integer>-33</integer>
-    <key>hyphen</key>
-    <integer>-1</integer>
     <key>k</key>
     <integer>30</integer>
     <key>nu</key>
@@ -100,6 +98,8 @@
     <integer>12</integer>
     <key>phi</key>
     <integer>-10</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-1</integer>
     <key>q</key>
     <integer>-3</integer>
     <key>quotedblright</key>
@@ -182,12 +182,12 @@
     <integer>-33</integer>
     <key>guilsinglleft</key>
     <integer>-33</integer>
-    <key>hyphen</key>
-    <integer>-1</integer>
     <key>o</key>
     <integer>-4</integer>
     <key>period</key>
     <integer>12</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-1</integer>
     <key>q</key>
     <integer>-3</integer>
     <key>quotedblright</key>
@@ -293,12 +293,12 @@
     <integer>-33</integer>
     <key>guilsinglleft</key>
     <integer>-33</integer>
-    <key>hyphen</key>
-    <integer>-1</integer>
     <key>o</key>
     <integer>-4</integer>
     <key>period</key>
     <integer>12</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-1</integer>
     <key>q</key>
     <integer>-3</integer>
     <key>quotedblright</key>
@@ -452,12 +452,12 @@
     <integer>-33</integer>
     <key>guilsinglleft</key>
     <integer>-33</integer>
-    <key>hyphen</key>
-    <integer>-1</integer>
     <key>o</key>
     <integer>-4</integer>
     <key>period</key>
     <integer>12</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-1</integer>
     <key>q</key>
     <integer>-3</integer>
     <key>quotedblright</key>
@@ -618,8 +618,6 @@
     <integer>-5</integer>
     <key>e</key>
     <integer>-4</integer>
-    <key>hyphen</key>
-    <integer>29</integer>
     <key>o</key>
     <integer>-4</integer>
     <key>odieresis</key>
@@ -628,6 +626,8 @@
     <integer>-4</integer>
     <key>period</key>
     <integer>-5</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>29</integer>
     <key>quotedblright</key>
     <integer>30</integer>
     <key>quoteright</key>
@@ -718,14 +718,14 @@
     <integer>-6</integer>
     <key>e</key>
     <integer>2</integer>
-    <key>hyphen</key>
-    <integer>31</integer>
     <key>o</key>
     <integer>2</integer>
     <key>odieresis</key>
     <integer>2</integer>
     <key>oe</key>
     <integer>2</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>31</integer>
     <key>y</key>
     <integer>6</integer>
   </dict>
@@ -804,8 +804,6 @@
     <integer>-6</integer>
     <key>h</key>
     <integer>-12</integer>
-    <key>hyphen</key>
-    <integer>31</integer>
     <key>i</key>
     <integer>-12</integer>
     <key>j</key>
@@ -816,6 +814,8 @@
     <integer>-13</integer>
     <key>nu</key>
     <integer>-8</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>31</integer>
     <key>q</key>
     <integer>2</integer>
     <key>quotedblright</key>
@@ -921,8 +921,6 @@
     <integer>-42</integer>
     <key>h</key>
     <integer>11</integer>
-    <key>hyphen</key>
-    <integer>-40</integer>
     <key>i</key>
     <integer>15</integer>
     <key>j</key>
@@ -943,6 +941,8 @@
     <integer>-40</integer>
     <key>period</key>
     <integer>-94</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-40</integer>
     <key>quotedblright</key>
     <integer>49</integer>
     <key>quoteright</key>
@@ -1008,8 +1008,6 @@
     <integer>-5</integer>
     <key>e</key>
     <integer>16</integer>
-    <key>hyphen</key>
-    <integer>41</integer>
     <key>o</key>
     <integer>17</integer>
     <key>odieresis</key>
@@ -1018,6 +1016,8 @@
     <integer>17</integer>
     <key>period</key>
     <integer>-7</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>41</integer>
     <key>quotedblright</key>
     <integer>14</integer>
     <key>quoteright</key>
@@ -1221,8 +1221,6 @@
     <integer>26</integer>
     <key>h</key>
     <integer>38</integer>
-    <key>hyphen</key>
-    <integer>-27</integer>
     <key>i</key>
     <integer>36</integer>
     <key>j</key>
@@ -1245,6 +1243,8 @@
     <integer>4</integer>
     <key>parenright</key>
     <integer>9</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-27</integer>
     <key>quotedblright</key>
     <integer>21</integer>
     <key>quoteright</key>
@@ -1365,8 +1365,6 @@
     <integer>-12</integer>
     <key>e</key>
     <integer>16</integer>
-    <key>hyphen</key>
-    <integer>50</integer>
     <key>i</key>
     <integer>4</integer>
     <key>j</key>
@@ -1377,6 +1375,8 @@
     <integer>16</integer>
     <key>parenright</key>
     <integer>-11</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>50</integer>
     <key>quotedblright</key>
     <integer>-44</integer>
     <key>quoteright</key>
@@ -1659,12 +1659,12 @@
     <integer>29</integer>
     <key>comma</key>
     <integer>-18</integer>
-    <key>hyphen</key>
-    <integer>32</integer>
     <key>lambda</key>
     <integer>-34</integer>
     <key>period</key>
     <integer>-17</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>32</integer>
     <key>semicolon</key>
     <integer>30</integer>
     <key>v</key>
@@ -1897,8 +1897,6 @@
     <integer>18</integer>
     <key>h</key>
     <integer>-17</integer>
-    <key>hyphen</key>
-    <integer>-39</integer>
     <key>i</key>
     <integer>17</integer>
     <key>j</key>
@@ -1923,6 +1921,8 @@
     <integer>-29</integer>
     <key>period</key>
     <integer>-99</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-39</integer>
     <key>quotedblright</key>
     <integer>48</integer>
     <key>quoteright</key>
@@ -1995,10 +1995,10 @@
     <integer>31</integer>
     <key>bracketright</key>
     <integer>9</integer>
-    <key>hyphen</key>
-    <integer>31</integer>
     <key>parenright</key>
     <integer>6</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>31</integer>
     <key>u</key>
     <integer>5</integer>
     <key>udieresis</key>
@@ -2092,8 +2092,6 @@
     <integer>14</integer>
     <key>eacute</key>
     <integer>14</integer>
-    <key>hyphen</key>
-    <integer>30</integer>
     <key>o</key>
     <integer>13</integer>
     <key>oacute</key>
@@ -2104,6 +2102,8 @@
     <integer>13</integer>
     <key>parenright</key>
     <integer>13</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>30</integer>
     <key>quotedblright</key>
     <integer>12</integer>
     <key>quoteright</key>
@@ -2212,8 +2212,6 @@
     <integer>9</integer>
     <key>h</key>
     <integer>-9</integer>
-    <key>hyphen</key>
-    <integer>42</integer>
     <key>i</key>
     <integer>-9</integer>
     <key>j</key>
@@ -2226,6 +2224,8 @@
     <integer>10</integer>
     <key>oe</key>
     <integer>10</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>42</integer>
     <key>q</key>
     <integer>9</integer>
     <key>quotedblright</key>
@@ -2402,8 +2402,6 @@
     <integer>-98</integer>
     <key>h</key>
     <integer>15</integer>
-    <key>hyphen</key>
-    <integer>-73</integer>
     <key>i</key>
     <integer>20</integer>
     <key>iacute</key>
@@ -2435,6 +2433,8 @@
     <key>parenright</key>
     <integer>2</integer>
     <key>period</key>
+    <integer>-73</integer>
+    <key>public.kern2.hyphenminus</key>
     <integer>-73</integer>
     <key>quotedblright</key>
     <integer>47</integer>
@@ -2574,8 +2574,6 @@
     <integer>-28</integer>
     <key>eogonek</key>
     <integer>-28</integer>
-    <key>hyphen</key>
-    <integer>-40</integer>
     <key>nacute</key>
     <integer>16</integer>
     <key>ncaron</key>
@@ -2586,6 +2584,8 @@
     <integer>-27</integer>
     <key>period</key>
     <integer>-73</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-40</integer>
     <key>racute</key>
     <integer>19</integer>
     <key>rcaron</key>
@@ -2916,8 +2916,6 @@
     <integer>-84</integer>
     <key>h</key>
     <integer>36</integer>
-    <key>hyphen</key>
-    <integer>-54</integer>
     <key>i</key>
     <integer>-7</integer>
     <key>iacute</key>
@@ -2944,6 +2942,8 @@
     <integer>22</integer>
     <key>period</key>
     <integer>-96</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-54</integer>
     <key>r</key>
     <integer>-45</integer>
     <key>racute</key>
@@ -3091,8 +3091,6 @@
     <integer>-64</integer>
     <key>h</key>
     <integer>29</integer>
-    <key>hyphen</key>
-    <integer>-37</integer>
     <key>i</key>
     <integer>-14</integer>
     <key>iacute</key>
@@ -3119,6 +3117,8 @@
     <integer>15</integer>
     <key>period</key>
     <integer>-77</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-37</integer>
     <key>quotedblright</key>
     <integer>26</integer>
     <key>quoteright</key>
@@ -3190,8 +3190,6 @@
     <integer>1</integer>
     <key>epsilontonos</key>
     <integer>20</integer>
-    <key>hyphen</key>
-    <integer>-29</integer>
     <key>o</key>
     <integer>-2</integer>
     <key>odieresis</key>
@@ -3204,6 +3202,8 @@
     <integer>-2</integer>
     <key>parenright</key>
     <integer>3</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-29</integer>
     <key>quotedblright</key>
     <integer>14</integer>
     <key>quoteright</key>
@@ -3330,8 +3330,6 @@
     <integer>-101</integer>
     <key>guilsinglleft</key>
     <integer>-101</integer>
-    <key>hyphen</key>
-    <integer>-75</integer>
     <key>i</key>
     <integer>-7</integer>
     <key>iacute</key>
@@ -3360,6 +3358,8 @@
     <integer>-78</integer>
     <key>pi</key>
     <integer>-83</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-75</integer>
     <key>q</key>
     <integer>-85</integer>
     <key>quotedblright</key>
@@ -3415,14 +3415,14 @@
     <integer>-85</integer>
     <key>eogonek</key>
     <integer>-85</integer>
-    <key>hyphen</key>
-    <integer>-75</integer>
     <key>oacute</key>
     <integer>-84</integer>
     <key>ohungarumlaut</key>
     <integer>-41</integer>
     <key>period</key>
     <integer>-78</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-75</integer>
     <key>scedilla</key>
     <integer>-72</integer>
     <key>semicolon</key>
@@ -3464,8 +3464,6 @@
     <integer>11</integer>
     <key>epsilon</key>
     <integer>9</integer>
-    <key>hyphen</key>
-    <integer>43</integer>
     <key>i</key>
     <integer>-1</integer>
     <key>o</key>
@@ -3480,6 +3478,8 @@
     <integer>19</integer>
     <key>period</key>
     <integer>19</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>43</integer>
     <key>quotedblright</key>
     <integer>15</integer>
     <key>quoteright</key>
@@ -3638,10 +3638,10 @@
     <integer>13</integer>
     <key>guillemotright</key>
     <integer>-13</integer>
-    <key>hyphen</key>
-    <integer>-1</integer>
     <key>period</key>
     <integer>12</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-1</integer>
     <key>semicolon</key>
     <integer>13</integer>
   </dict>
@@ -3791,10 +3791,10 @@
     <integer>-17</integer>
     <key>comma</key>
     <integer>-101</integer>
-    <key>hyphen</key>
-    <integer>-46</integer>
     <key>period</key>
     <integer>-106</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-46</integer>
     <key>semicolon</key>
     <integer>-16</integer>
   </dict>
@@ -3979,10 +3979,10 @@
     <integer>-19</integer>
     <key>comma</key>
     <integer>-99</integer>
-    <key>hyphen</key>
-    <integer>-39</integer>
     <key>period</key>
     <integer>-99</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-39</integer>
     <key>semicolon</key>
     <integer>-18</integer>
   </dict>
@@ -4111,10 +4111,10 @@
     <integer>-69</integer>
     <key>guillemotright</key>
     <integer>-11</integer>
-    <key>hyphen</key>
-    <integer>-40</integer>
     <key>period</key>
     <integer>-73</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-40</integer>
     <key>semicolon</key>
     <integer>-5</integer>
   </dict>
@@ -4206,10 +4206,10 @@
     <integer>-121</integer>
     <key>guillemotright</key>
     <integer>-76</integer>
-    <key>hyphen</key>
-    <integer>-70</integer>
     <key>period</key>
     <integer>-120</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-70</integer>
     <key>semicolon</key>
     <integer>-63</integer>
   </dict>
@@ -4750,10 +4750,10 @@
     <integer>-2</integer>
     <key>comma</key>
     <integer>-79</integer>
-    <key>hyphen</key>
-    <integer>13</integer>
     <key>period</key>
     <integer>-81</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>13</integer>
     <key>semicolon</key>
     <integer>-3</integer>
   </dict>
@@ -4885,10 +4885,10 @@
     <integer>11</integer>
     <key>comma</key>
     <integer>-16</integer>
-    <key>hyphen</key>
-    <integer>22</integer>
     <key>period</key>
     <integer>-19</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>22</integer>
     <key>semicolon</key>
     <integer>15</integer>
   </dict>
@@ -4959,10 +4959,10 @@
     <integer>-54</integer>
     <key>guillemotright</key>
     <integer>10</integer>
-    <key>hyphen</key>
-    <integer>10</integer>
     <key>period</key>
     <integer>-56</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>10</integer>
     <key>semicolon</key>
     <integer>4</integer>
   </dict>
@@ -4998,10 +4998,10 @@
     <integer>-74</integer>
     <key>guillemotright</key>
     <integer>-23</integer>
-    <key>hyphen</key>
-    <integer>-30</integer>
     <key>period</key>
     <integer>-79</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-30</integer>
     <key>semicolon</key>
     <integer>-14</integer>
   </dict>
@@ -5559,8 +5559,6 @@
     <integer>-18</integer>
     <key>h</key>
     <integer>-11</integer>
-    <key>hyphen</key>
-    <integer>-1</integer>
     <key>j</key>
     <integer>9</integer>
     <key>k</key>
@@ -5575,6 +5573,8 @@
     <integer>-1</integer>
     <key>period</key>
     <integer>1</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-1</integer>
     <key>question</key>
     <integer>-40</integer>
     <key>quotedblright</key>
@@ -5628,7 +5628,7 @@
   <dict>
     <key>endash</key>
     <integer>21</integer>
-    <key>hyphen</key>
+    <key>public.kern2.hyphenminus</key>
     <integer>2</integer>
     <key>quotedblright</key>
     <integer>-15</integer>
@@ -5742,8 +5742,6 @@
     <integer>-22</integer>
     <key>h</key>
     <integer>-20</integer>
-    <key>hyphen</key>
-    <integer>16</integer>
     <key>j</key>
     <integer>-14</integer>
     <key>k</key>
@@ -5752,6 +5750,8 @@
     <integer>-24</integer>
     <key>period</key>
     <integer>-8</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>16</integer>
     <key>question</key>
     <integer>-44</integer>
     <key>quoteright</key>
@@ -5789,12 +5789,12 @@
     <integer>-21</integer>
     <key>g</key>
     <integer>-7</integer>
-    <key>hyphen</key>
-    <integer>16</integer>
     <key>l</key>
     <integer>-21</integer>
     <key>period</key>
     <integer>-8</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>16</integer>
     <key>q</key>
     <integer>-1</integer>
     <key>question</key>
@@ -5990,8 +5990,6 @@
     <integer>22</integer>
     <key>g</key>
     <integer>-13</integer>
-    <key>hyphen</key>
-    <integer>-20</integer>
     <key>i</key>
     <integer>32</integer>
     <key>iacute</key>
@@ -6014,6 +6012,8 @@
     <integer>59</integer>
     <key>period</key>
     <integer>-17</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-20</integer>
     <key>question</key>
     <integer>72</integer>
     <key>quotedblright</key>
@@ -6079,8 +6079,6 @@
     <integer>-5</integer>
     <key>h</key>
     <integer>-10</integer>
-    <key>hyphen</key>
-    <integer>-24</integer>
     <key>j</key>
     <integer>43</integer>
     <key>k</key>
@@ -6101,6 +6099,8 @@
     <integer>-17</integer>
     <key>period</key>
     <integer>-30</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-24</integer>
     <key>question</key>
     <integer>-6</integer>
     <key>quotedblright</key>
@@ -6433,8 +6433,6 @@
     <integer>3</integer>
     <key>h</key>
     <integer>17</integer>
-    <key>hyphen</key>
-    <integer>-59</integer>
     <key>i</key>
     <integer>15</integer>
     <key>j</key>
@@ -6457,6 +6455,8 @@
     <integer>-6</integer>
     <key>period</key>
     <integer>-1</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-59</integer>
     <key>q</key>
     <integer>-21</integer>
     <key>question</key>
@@ -6969,10 +6969,10 @@
     <integer>-32</integer>
     <key>endash</key>
     <integer>15</integer>
-    <key>hyphen</key>
-    <integer>-3</integer>
     <key>onesuperior</key>
     <integer>-11</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-3</integer>
     <key>quotedblright</key>
     <integer>-22</integer>
     <key>quoteright</key>
@@ -7385,8 +7385,6 @@
     <integer>-5</integer>
     <key>h</key>
     <integer>-24</integer>
-    <key>hyphen</key>
-    <integer>-70</integer>
     <key>i</key>
     <integer>20</integer>
     <key>j</key>
@@ -7423,6 +7421,8 @@
     <integer>13</integer>
     <key>period</key>
     <integer>-74</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-70</integer>
     <key>q</key>
     <integer>-4</integer>
     <key>question</key>
@@ -7581,14 +7581,14 @@
     <integer>-12</integer>
     <key>g</key>
     <integer>-8</integer>
-    <key>hyphen</key>
-    <integer>7</integer>
     <key>k</key>
     <integer>-14</integer>
     <key>p</key>
     <integer>-17</integer>
     <key>period</key>
     <integer>-3</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>7</integer>
     <key>question</key>
     <integer>-41</integer>
     <key>quotedblright</key>
@@ -7736,8 +7736,6 @@
     <integer>-20</integer>
     <key>h</key>
     <integer>-1</integer>
-    <key>hyphen</key>
-    <integer>15</integer>
     <key>j</key>
     <integer>3</integer>
     <key>m</key>
@@ -7754,6 +7752,8 @@
     <integer>-4</integer>
     <key>period</key>
     <integer>8</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>15</integer>
     <key>q</key>
     <integer>6</integer>
     <key>question</key>
@@ -7978,8 +7978,6 @@
     <integer>-7</integer>
     <key>g</key>
     <integer>-17</integer>
-    <key>hyphen</key>
-    <integer>-28</integer>
     <key>i</key>
     <integer>20</integer>
     <key>j</key>
@@ -8000,6 +7998,8 @@
     <integer>-22</integer>
     <key>period</key>
     <integer>-76</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-28</integer>
     <key>r</key>
     <integer>18</integer>
     <key>s</key>
@@ -8055,8 +8055,6 @@
     <integer>16</integer>
     <key>g</key>
     <integer>-20</integer>
-    <key>hyphen</key>
-    <integer>-27</integer>
     <key>i</key>
     <integer>17</integer>
     <key>j</key>
@@ -8077,6 +8075,8 @@
     <integer>12</integer>
     <key>period</key>
     <integer>-71</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-27</integer>
     <key>question</key>
     <integer>-16</integer>
     <key>quotedblright</key>
@@ -8118,14 +8118,14 @@
     <integer>-30</integer>
     <key>exclam</key>
     <integer>-9</integer>
-    <key>hyphen</key>
-    <integer>-51</integer>
     <key>o</key>
     <integer>-26</integer>
     <key>odieresis</key>
     <integer>-26</integer>
     <key>period</key>
     <integer>-2</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-51</integer>
     <key>q</key>
     <integer>-25</integer>
     <key>question</key>
@@ -8202,8 +8202,6 @@
     <integer>-20</integer>
     <key>g</key>
     <integer>-23</integer>
-    <key>hyphen</key>
-    <integer>-30</integer>
     <key>j</key>
     <integer>24</integer>
     <key>l</key>
@@ -8222,6 +8220,8 @@
     <integer>-28</integer>
     <key>period</key>
     <integer>-79</integer>
+    <key>public.kern2.hyphenminus</key>
+    <integer>-30</integer>
     <key>question</key>
     <integer>-12</integer>
     <key>quotedblright</key>
