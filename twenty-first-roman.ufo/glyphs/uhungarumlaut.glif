@@ -3,34 +3,7 @@
   <advance width="611"/>
   <unicode hex="0171"/>
   <outline>
+    <component base="hungarumlaut" xOffset="139"/>
     <component base="u"/>
-    <contour>
-      <point x="184" y="544" type="line"/>
-      <point x="200" y="535" type="line"/>
-      <point x="281" y="633" type="line" smooth="yes"/>
-      <point x="294" y="648"/>
-      <point x="299" y="660"/>
-      <point x="299" y="673" type="curve" smooth="yes"/>
-      <point x="299" y="688"/>
-      <point x="287" y="701"/>
-      <point x="272" y="701" type="curve" smooth="yes"/>
-      <point x="250" y="701"/>
-      <point x="234" y="684"/>
-      <point x="219" y="642" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="312" y="544" type="line"/>
-      <point x="328" y="535" type="line"/>
-      <point x="409" y="633" type="line" smooth="yes"/>
-      <point x="422" y="649"/>
-      <point x="427" y="660"/>
-      <point x="427" y="673" type="curve" smooth="yes"/>
-      <point x="427" y="688"/>
-      <point x="415" y="701"/>
-      <point x="400" y="701" type="curve" smooth="yes"/>
-      <point x="377" y="701"/>
-      <point x="362" y="684"/>
-      <point x="347" y="642" type="curve" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>

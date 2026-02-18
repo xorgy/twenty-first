@@ -3,47 +3,8 @@
   <advance width="204"/>
   <unicode hex="0385"/>
   <outline>
-    <contour>
-      <point x="3" y="657" type="curve" smooth="yes"/>
-      <point x="-24" y="657"/>
-      <point x="-47" y="634"/>
-      <point x="-47" y="607" type="curve" smooth="yes"/>
-      <point x="-47" y="580"/>
-      <point x="-24" y="557"/>
-      <point x="2" y="557" type="curve" smooth="yes"/>
-      <point x="30" y="557"/>
-      <point x="53" y="579"/>
-      <point x="53" y="607" type="curve" smooth="yes"/>
-      <point x="53" y="634"/>
-      <point x="30" y="657"/>
-    </contour>
-    <contour>
-      <point x="226" y="657" type="curve" smooth="yes"/>
-      <point x="199" y="657"/>
-      <point x="176" y="634"/>
-      <point x="176" y="607" type="curve" smooth="yes"/>
-      <point x="176" y="580"/>
-      <point x="199" y="557"/>
-      <point x="225" y="557" type="curve" smooth="yes"/>
-      <point x="254" y="557"/>
-      <point x="276" y="579"/>
-      <point x="276" y="607" type="curve" smooth="yes"/>
-      <point x="276" y="635"/>
-      <point x="253" y="657"/>
-    </contour>
-    <contour>
-      <point x="93" y="563" type="line"/>
-      <point x="114" y="557" type="line"/>
-      <point x="192" y="721" type="line" smooth="yes"/>
-      <point x="197" y="731"/>
-      <point x="200" y="742"/>
-      <point x="200" y="750" type="curve" smooth="yes"/>
-      <point x="200" y="772"/>
-      <point x="180" y="791"/>
-      <point x="157" y="791" type="curve" smooth="yes"/>
-      <point x="131" y="791"/>
-      <point x="116" y="775"/>
-      <point x="112" y="744" type="curve" smooth="yes"/>
-    </contour>
+    <component base="dotaccent" xOffset="-164" yOffset="13"/>
+    <component base="dotaccent" xOffset="59" yOffset="13"/>
+    <component base="tonos"/>
   </outline>
 </glyph>

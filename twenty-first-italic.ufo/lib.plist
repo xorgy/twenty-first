@@ -357,12 +357,8 @@
     <string>franc</string>
     <string>uni0387</string>
     <string>uni2219</string>
-    <string>uni00AD</string>
-    <string>afii00208</string>
     <string>afii61248</string>
     <string>quotereversed</string>
-    <string>uni2215</string>
-    <string>uni02C9</string>
     <string>aringacute</string>
     <string>hcircumflex</string>
     <string>ebreve</string>
@@ -536,28 +532,14 @@
     <string>triagrt</string>
     <string>triaglf</string>
     <string>musicalnotedbl</string>
-    <string>Alpha</string>
-    <string>Beta</string>
     <string>Gamma</string>
     <string>uni0394</string>
-    <string>Epsilon</string>
-    <string>Zeta</string>
-    <string>Eta</string>
     <string>Theta</string>
-    <string>Iota</string>
-    <string>Kappa</string>
     <string>Lambda</string>
-    <string>Mu</string>
-    <string>Nu</string>
     <string>Xi</string>
-    <string>Omicron</string>
     <string>Pi</string>
-    <string>Rho</string>
     <string>Sigma</string>
-    <string>Tau</string>
-    <string>Upsilon</string>
     <string>Phi</string>
-    <string>Chi</string>
     <string>Psi</string>
     <string>uni03A9</string>
     <string>alpha</string>
@@ -568,13 +550,11 @@
     <string>zeta</string>
     <string>eta</string>
     <string>theta</string>
-    <string>iota</string>
     <string>kappa</string>
     <string>lambda</string>
     <string>uni03BC</string>
     <string>nu</string>
     <string>xi</string>
-    <string>omicron</string>
     <string>pi</string>
     <string>rho</string>
     <string>sigma</string>
@@ -588,7 +568,6 @@
     <string>theta1</string>
     <string>phi1</string>
     <string>omega1</string>
-    <string>iotadieresis</string>
     <string>upsilondieresis</string>
     <string>tonos</string>
     <string>dieresistonos</string>
@@ -610,27 +589,14 @@
     <string>upsilontonos</string>
     <string>iotadieresistonos</string>
     <string>upsilondieresistonos</string>
-    <string>afii10017</string>
     <string>afii10018</string>
-    <string>afii10019</string>
-    <string>afii10020</string>
     <string>afii10021</string>
-    <string>afii10022</string>
     <string>afii10024</string>
     <string>afii10025</string>
     <string>afii10026</string>
     <string>afii10028</string>
     <string>afii10029</string>
-    <string>afii10030</string>
-    <string>afii10031</string>
-    <string>afii10032</string>
-    <string>afii10033</string>
-    <string>afii10034</string>
-    <string>afii10035</string>
-    <string>afii10036</string>
     <string>afii10037</string>
-    <string>afii10038</string>
-    <string>afii10039</string>
     <string>afii10040</string>
     <string>afii10041</string>
     <string>afii10042</string>
@@ -644,18 +610,12 @@
     <string>afii10050</string>
     <string>afii10051</string>
     <string>afii10053</string>
-    <string>afii10054</string>
-    <string>afii10055</string>
-    <string>uni04C0</string>
-    <string>uni04CF</string>
-    <string>afii10057</string>
     <string>afii10058</string>
     <string>afii10059</string>
     <string>afii10060</string>
     <string>afii10145</string>
     <string>uni04E8</string>
     <string>uni0496</string>
-    <string>uni04AE</string>
     <string>uni04D8</string>
     <string>uni04BA</string>
     <string>afii61352</string>
@@ -664,7 +624,6 @@
     <string>afii10023</string>
     <string>afii10027</string>
     <string>afii10052</string>
-    <string>afii10056</string>
     <string>afii10061</string>
     <string>afii10062</string>
     <string>uni04E2</string>
@@ -675,7 +634,6 @@
     <string>uni04B2</string>
     <string>uni04B8</string>
     <string>uni04B6</string>
-    <string>uni0400</string>
     <string>uni040D</string>
     <string>uni0462</string>
     <string>uni0472</string>
@@ -684,27 +642,16 @@
     <string>uni04A0</string>
     <string>uni04AA</string>
     <string>uni04CB</string>
-    <string>afii10065</string>
     <string>afii10066</string>
     <string>afii10067</string>
     <string>afii10068</string>
     <string>afii10069</string>
-    <string>afii10070</string>
     <string>afii10072</string>
     <string>afii10073</string>
-    <string>afii10074</string>
-    <string>afii10076</string>
     <string>afii10077</string>
     <string>afii10078</string>
     <string>afii10079</string>
-    <string>afii10080</string>
-    <string>afii10081</string>
-    <string>afii10082</string>
-    <string>afii10083</string>
-    <string>afii10084</string>
-    <string>afii10085</string>
     <string>afii10086</string>
-    <string>afii10087</string>
     <string>afii10088</string>
     <string>afii10091</string>
     <string>afii10092</string>
@@ -716,9 +663,6 @@
     <string>afii10098</string>
     <string>afii10099</string>
     <string>afii10101</string>
-    <string>afii10102</string>
-    <string>afii10103</string>
-    <string>afii10105</string>
     <string>afii10106</string>
     <string>afii10107</string>
     <string>afii10108</string>
@@ -727,15 +671,11 @@
     <string>afii10089</string>
     <string>afii10090</string>
     <string>uni0497</string>
-    <string>uni04AF</string>
     <string>afii10846</string>
-    <string>uni04BB</string>
     <string>uni0493</string>
     <string>uni04B1</string>
-    <string>afii10071</string>
     <string>afii10075</string>
     <string>afii10100</string>
-    <string>afii10104</string>
     <string>afii10109</string>
     <string>afii10110</string>
     <string>uni04E3</string>
@@ -746,8 +686,6 @@
     <string>uni04B3</string>
     <string>uni04B9</string>
     <string>uni04B7</string>
-    <string>uni0450</string>
-    <string>uni045D</string>
     <string>uni0463</string>
     <string>uni0473</string>
     <string>uni0475</string>

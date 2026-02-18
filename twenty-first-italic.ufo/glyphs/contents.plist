@@ -20,8 +20,6 @@
   <string>A_dieresis.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
-  <key>Alpha</key>
-  <string>A_lpha.glif</string>
   <key>Alphatonos</key>
   <string>A_lphatonos.glif</string>
   <key>Amacron</key>
@@ -36,8 +34,6 @@
   <string>A_tilde.glif</string>
   <key>B</key>
   <string>B_.glif</string>
-  <key>Beta</key>
-  <string>B_eta.glif</string>
   <key>C</key>
   <string>C_.glif</string>
   <key>Cacute</key>
@@ -50,8 +46,6 @@
   <string>C_circumflex.glif</string>
   <key>Cdotaccent</key>
   <string>C_dotaccent.glif</string>
-  <key>Chi</key>
-  <string>C_hi.glif</string>
   <key>D</key>
   <string>D_.glif</string>
   <key>Dcaron</key>
@@ -82,12 +76,8 @@
   <string>E_ng.glif</string>
   <key>Eogonek</key>
   <string>E_ogonek.glif</string>
-  <key>Epsilon</key>
-  <string>E_psilon.glif</string>
   <key>Epsilontonos</key>
   <string>E_psilontonos.glif</string>
-  <key>Eta</key>
-  <string>E_ta.glif</string>
   <key>Etatonos</key>
   <string>E_tatonos.glif</string>
   <key>Eth</key>
@@ -142,8 +132,6 @@
   <string>I_macron.glif</string>
   <key>Iogonek</key>
   <string>I_ogonek.glif</string>
-  <key>Iota</key>
-  <string>I_ota.glif</string>
   <key>Iotadieresis</key>
   <string>I_otadieresis.glif</string>
   <key>Iotatonos</key>
@@ -156,8 +144,6 @@
   <string>J_circumflex.glif</string>
   <key>K</key>
   <string>K_.glif</string>
-  <key>Kappa</key>
-  <string>K_appa.glif</string>
   <key>Kcommaaccent</key>
   <string>K_commaaccent.glif</string>
   <key>L</key>
@@ -176,8 +162,6 @@
   <string>L_slash.glif</string>
   <key>M</key>
   <string>M_.glif</string>
-  <key>Mu</key>
-  <string>M_u.glif</string>
   <key>N</key>
   <string>N_.glif</string>
   <key>Nacute</key>
@@ -188,8 +172,6 @@
   <string>N_commaaccent.glif</string>
   <key>Ntilde</key>
   <string>N_tilde.glif</string>
-  <key>Nu</key>
-  <string>N_u.glif</string>
   <key>O</key>
   <string>O_.glif</string>
   <key>OE</key>
@@ -210,8 +192,6 @@
   <string>O_macron.glif</string>
   <key>Omegatonos</key>
   <string>O_megatonos.glif</string>
-  <key>Omicron</key>
-  <string>O_micron.glif</string>
   <key>Omicrontonos</key>
   <string>O_microntonos.glif</string>
   <key>Oslash</key>
@@ -240,8 +220,6 @@
   <string>R_commaaccent.glif</string>
   <key>Rfraktur</key>
   <string>R_fraktur.glif</string>
-  <key>Rho</key>
-  <string>R_ho.glif</string>
   <key>S</key>
   <string>S_.glif</string>
   <key>SF010000</key>
@@ -338,8 +316,6 @@
   <string>S_igma.glif</string>
   <key>T</key>
   <string>T_.glif</string>
-  <key>Tau</key>
-  <string>T_au.glif</string>
   <key>Tbar</key>
   <string>T_bar.glif</string>
   <key>Tcaron</key>
@@ -368,8 +344,6 @@
   <string>U_macron.glif</string>
   <key>Uogonek</key>
   <string>U_ogonek.glif</string>
-  <key>Upsilon</key>
-  <string>U_psilon.glif</string>
   <key>Upsilondieresis</key>
   <string>U_psilondieresis.glif</string>
   <key>Upsilontonos</key>
@@ -412,8 +386,6 @@
   <string>Z_caron.glif</string>
   <key>Zdotaccent</key>
   <string>Z_dotaccent.glif</string>
-  <key>Zeta</key>
-  <string>Z_eta.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>aacute</key>
@@ -430,20 +402,10 @@
   <string>ae.glif</string>
   <key>aeacute</key>
   <string>aeacute.glif</string>
-  <key>afii00208</key>
-  <string>afii00208.glif</string>
-  <key>afii10017</key>
-  <string>afii10017.glif</string>
   <key>afii10018</key>
   <string>afii10018.glif</string>
-  <key>afii10019</key>
-  <string>afii10019.glif</string>
-  <key>afii10020</key>
-  <string>afii10020.glif</string>
   <key>afii10021</key>
   <string>afii10021.glif</string>
-  <key>afii10022</key>
-  <string>afii10022.glif</string>
   <key>afii10023</key>
   <string>afii10023.glif</string>
   <key>afii10024</key>
@@ -458,26 +420,8 @@
   <string>afii10028.glif</string>
   <key>afii10029</key>
   <string>afii10029.glif</string>
-  <key>afii10030</key>
-  <string>afii10030.glif</string>
-  <key>afii10031</key>
-  <string>afii10031.glif</string>
-  <key>afii10032</key>
-  <string>afii10032.glif</string>
-  <key>afii10033</key>
-  <string>afii10033.glif</string>
-  <key>afii10034</key>
-  <string>afii10034.glif</string>
-  <key>afii10035</key>
-  <string>afii10035.glif</string>
-  <key>afii10036</key>
-  <string>afii10036.glif</string>
   <key>afii10037</key>
   <string>afii10037.glif</string>
-  <key>afii10038</key>
-  <string>afii10038.glif</string>
-  <key>afii10039</key>
-  <string>afii10039.glif</string>
   <key>afii10040</key>
   <string>afii10040.glif</string>
   <key>afii10041</key>
@@ -506,14 +450,6 @@
   <string>afii10052.glif</string>
   <key>afii10053</key>
   <string>afii10053.glif</string>
-  <key>afii10054</key>
-  <string>afii10054.glif</string>
-  <key>afii10055</key>
-  <string>afii10055.glif</string>
-  <key>afii10056</key>
-  <string>afii10056.glif</string>
-  <key>afii10057</key>
-  <string>afii10057.glif</string>
   <key>afii10058</key>
   <string>afii10058.glif</string>
   <key>afii10059</key>
@@ -524,8 +460,6 @@
   <string>afii10061.glif</string>
   <key>afii10062</key>
   <string>afii10062.glif</string>
-  <key>afii10065</key>
-  <string>afii10065.glif</string>
   <key>afii10066</key>
   <string>afii10066.glif</string>
   <key>afii10067</key>
@@ -534,42 +468,20 @@
   <string>afii10068.glif</string>
   <key>afii10069</key>
   <string>afii10069.glif</string>
-  <key>afii10070</key>
-  <string>afii10070.glif</string>
-  <key>afii10071</key>
-  <string>afii10071.glif</string>
   <key>afii10072</key>
   <string>afii10072.glif</string>
   <key>afii10073</key>
   <string>afii10073.glif</string>
-  <key>afii10074</key>
-  <string>afii10074.glif</string>
   <key>afii10075</key>
   <string>afii10075.glif</string>
-  <key>afii10076</key>
-  <string>afii10076.glif</string>
   <key>afii10077</key>
   <string>afii10077.glif</string>
   <key>afii10078</key>
   <string>afii10078.glif</string>
   <key>afii10079</key>
   <string>afii10079.glif</string>
-  <key>afii10080</key>
-  <string>afii10080.glif</string>
-  <key>afii10081</key>
-  <string>afii10081.glif</string>
-  <key>afii10082</key>
-  <string>afii10082.glif</string>
-  <key>afii10083</key>
-  <string>afii10083.glif</string>
-  <key>afii10084</key>
-  <string>afii10084.glif</string>
-  <key>afii10085</key>
-  <string>afii10085.glif</string>
   <key>afii10086</key>
   <string>afii10086.glif</string>
-  <key>afii10087</key>
-  <string>afii10087.glif</string>
   <key>afii10088</key>
   <string>afii10088.glif</string>
   <key>afii10089</key>
@@ -598,14 +510,6 @@
   <string>afii10100.glif</string>
   <key>afii10101</key>
   <string>afii10101.glif</string>
-  <key>afii10102</key>
-  <string>afii10102.glif</string>
-  <key>afii10103</key>
-  <string>afii10103.glif</string>
-  <key>afii10104</key>
-  <string>afii10104.glif</string>
-  <key>afii10105</key>
-  <string>afii10105.glif</string>
   <key>afii10106</key>
   <string>afii10106.glif</string>
   <key>afii10107</key>
@@ -960,10 +864,6 @@
   <string>invsmileface.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
-  <key>iota</key>
-  <string>iota.glif</string>
-  <key>iotadieresis</key>
-  <string>iotadieresis.glif</string>
   <key>iotadieresistonos</key>
   <string>iotadieresistonos.glif</string>
   <key>iotatonos</key>
@@ -1084,8 +984,6 @@
   <string>omega1.glif</string>
   <key>omegatonos</key>
   <string>omegatonos.glif</string>
-  <key>omicron</key>
-  <string>omicron.glif</string>
   <key>omicrontonos</key>
   <string>omicrontonos.glif</string>
   <key>one</key>
@@ -1316,14 +1214,10 @@
   <string>underscoredbl.glif</string>
   <key>uni00A0</key>
   <string>uni00A_0.glif</string>
-  <key>uni00AD</key>
-  <string>uni00A_D_.glif</string>
   <key>uni021A</key>
   <string>uni021A_.glif</string>
   <key>uni021B</key>
   <string>uni021B_.glif</string>
-  <key>uni02C9</key>
-  <string>uni02C_9.glif</string>
   <key>uni0387</key>
   <string>uni0387.glif</string>
   <key>uni0394</key>
@@ -1334,14 +1228,8 @@
   <string>uni03B_C_.glif</string>
   <key>uni03C2</key>
   <string>uni03C_2.glif</string>
-  <key>uni0400</key>
-  <string>uni0400.glif</string>
   <key>uni040D</key>
   <string>uni040D_.glif</string>
-  <key>uni0450</key>
-  <string>uni0450.glif</string>
-  <key>uni045D</key>
-  <string>uni045D_.glif</string>
   <key>uni0462</key>
   <string>uni0462.glif</string>
   <key>uni0463</key>
@@ -1386,10 +1274,6 @@
   <string>uni04A_A_.glif</string>
   <key>uni04AB</key>
   <string>uni04A_B_.glif</string>
-  <key>uni04AE</key>
-  <string>uni04A_E_.glif</string>
-  <key>uni04AF</key>
-  <string>uni04A_F_.glif</string>
   <key>uni04B0</key>
   <string>uni04B_0.glif</string>
   <key>uni04B1</key>
@@ -1408,16 +1292,10 @@
   <string>uni04B_9.glif</string>
   <key>uni04BA</key>
   <string>uni04B_A_.glif</string>
-  <key>uni04BB</key>
-  <string>uni04B_B_.glif</string>
-  <key>uni04C0</key>
-  <string>uni04C_0.glif</string>
   <key>uni04CB</key>
   <string>uni04C_B_.glif</string>
   <key>uni04CC</key>
   <string>uni04C_C_.glif</string>
-  <key>uni04CF</key>
-  <string>uni04C_F_.glif</string>
   <key>uni04D8</key>
   <string>uni04D_8.glif</string>
   <key>uni04E2</key>
@@ -1434,8 +1312,6 @@
   <string>uni04E_F_.glif</string>
   <key>uni2002</key>
   <string>uni2002.glif</string>
-  <key>uni2011</key>
-  <string>uni2011.glif</string>
   <key>uni203E</key>
   <string>uni203E_.glif</string>
   <key>uni20AF</key>
@@ -1480,8 +1356,6 @@
   <string>uni220D_.glif</string>
   <key>uni2213</key>
   <string>uni2213.glif</string>
-  <key>uni2215</key>
-  <string>uni2215.glif</string>
   <key>uni2219</key>
   <string>uni2219.glif</string>
   <key>uni2223</key>

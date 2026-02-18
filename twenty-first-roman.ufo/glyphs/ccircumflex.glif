@@ -3,15 +3,7 @@
   <advance width="444"/>
   <unicode hex="0109"/>
   <outline>
+    <component base="circumflex" xOffset="64"/>
     <component base="c"/>
-    <contour>
-      <point x="262" y="701" type="line"/>
-      <point x="198" y="701" type="line"/>
-      <point x="74" y="535" type="line"/>
-      <point x="109" y="535" type="line"/>
-      <point x="230" y="636" type="line"/>
-      <point x="351" y="535" type="line"/>
-      <point x="387" y="535" type="line"/>
-    </contour>
   </outline>
 </glyph>

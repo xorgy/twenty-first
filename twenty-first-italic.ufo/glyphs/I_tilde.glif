@@ -3,34 +3,7 @@
   <advance width="407"/>
   <unicode hex="0128"/>
   <outline>
+    <component base="tilde" xOffset="-35" yOffset="267"/>
     <component base="I"/>
-    <contour>
-      <point x="421" y="917" type="line"/>
-      <point x="410" y="888"/>
-      <point x="395" y="875"/>
-      <point x="373" y="875" type="curve" smooth="yes"/>
-      <point x="359" y="875"/>
-      <point x="349" y="877"/>
-      <point x="314" y="890" type="curve" smooth="yes"/>
-      <point x="255" y="910"/>
-      <point x="232" y="916"/>
-      <point x="213" y="916" type="curve" smooth="yes"/>
-      <point x="169" y="916"/>
-      <point x="135" y="877"/>
-      <point x="124" y="812" type="curve"/>
-      <point x="154" y="812" type="line"/>
-      <point x="162" y="842"/>
-      <point x="177" y="856"/>
-      <point x="198" y="856" type="curve" smooth="yes"/>
-      <point x="213" y="856"/>
-      <point x="228" y="852"/>
-      <point x="272" y="836" type="curve" smooth="yes"/>
-      <point x="325" y="816"/>
-      <point x="337" y="813"/>
-      <point x="359" y="813" type="curve" smooth="yes"/>
-      <point x="403" y="813"/>
-      <point x="446" y="861"/>
-      <point x="452" y="917" type="curve"/>
-    </contour>
   </outline>
 </glyph>

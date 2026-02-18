@@ -20,8 +20,6 @@
     <integer>-35</integer>
     <key>Odieresis</key>
     <integer>-35</integer>
-    <key>Omicron</key>
-    <integer>-35</integer>
     <key>Phi</key>
     <integer>-40</integer>
     <key>Psi</key>
@@ -31,8 +29,6 @@
     <key>S</key>
     <integer>19</integer>
     <key>T</key>
-    <integer>-12</integer>
-    <key>Tau</key>
     <integer>-12</integer>
     <key>Tcaron</key>
     <integer>-12</integer>
@@ -50,8 +46,6 @@
     <integer>-47</integer>
     <key>Ugrave</key>
     <integer>-47</integer>
-    <key>Upsilon</key>
-    <integer>-13</integer>
     <key>V</key>
     <integer>-87</integer>
     <key>W</key>
@@ -66,6 +60,40 @@
     <integer>34</integer>
     <key>a</key>
     <integer>-5</integer>
+    <key>afii10025</key>
+    <integer>14</integer>
+    <key>afii10029</key>
+    <integer>57</integer>
+    <key>afii10037</key>
+    <integer>3</integer>
+    <key>afii10041</key>
+    <integer>-85</integer>
+    <key>afii10044</key>
+    <integer>-42</integer>
+    <key>afii10053</key>
+    <integer>-37</integer>
+    <key>afii10058</key>
+    <integer>57</integer>
+    <key>afii10060</key>
+    <integer>-8</integer>
+    <key>afii10062</key>
+    <integer>-4</integer>
+    <key>afii10073</key>
+    <integer>17</integer>
+    <key>afii10077</key>
+    <integer>32</integer>
+    <key>afii10084</key>
+    <integer>6</integer>
+    <key>afii10086</key>
+    <integer>-3</integer>
+    <key>afii10089</key>
+    <integer>-61</integer>
+    <key>afii10092</key>
+    <integer>-33</integer>
+    <key>afii10106</key>
+    <integer>32</integer>
+    <key>afii10110</key>
+    <integer>-38</integer>
     <key>b</key>
     <integer>-10</integer>
     <key>braceright</key>
@@ -76,6 +104,8 @@
     <integer>-2</integer>
     <key>ccedilla</key>
     <integer>-9</integer>
+    <key>colon</key>
+    <integer>37</integer>
     <key>comma</key>
     <integer>37</integer>
     <key>d</key>
@@ -88,8 +118,12 @@
     <integer>-42</integer>
     <key>guillemotleft</key>
     <integer>-9</integer>
+    <key>guillemotright</key>
+    <integer>-21</integer>
     <key>guilsinglleft</key>
     <integer>-9</integer>
+    <key>hyphen</key>
+    <integer>1</integer>
     <key>k</key>
     <integer>13</integer>
     <key>nu</key>
@@ -100,8 +134,6 @@
     <integer>29</integer>
     <key>phi</key>
     <integer>-12</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>1</integer>
     <key>q</key>
     <integer>-1</integer>
     <key>quotedblright</key>
@@ -112,6 +144,8 @@
     <integer>-76</integer>
     <key>s</key>
     <integer>11</integer>
+    <key>semicolon</key>
+    <integer>38</integer>
     <key>sigma</key>
     <integer>-7</integer>
     <key>t</key>
@@ -186,12 +220,12 @@
     <integer>-9</integer>
     <key>guilsinglleft</key>
     <integer>-9</integer>
+    <key>hyphen</key>
+    <integer>1</integer>
     <key>o</key>
     <integer>-7</integer>
     <key>period</key>
     <integer>29</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>1</integer>
     <key>q</key>
     <integer>-1</integer>
     <key>quotedblright</key>
@@ -299,12 +333,12 @@
     <integer>-9</integer>
     <key>guilsinglleft</key>
     <integer>-9</integer>
+    <key>hyphen</key>
+    <integer>1</integer>
     <key>o</key>
     <integer>-7</integer>
     <key>period</key>
     <integer>29</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>1</integer>
     <key>q</key>
     <integer>-1</integer>
     <key>quotedblright</key>
@@ -346,45 +380,6 @@
     <integer>37</integer>
     <key>period</key>
     <integer>29</integer>
-  </dict>
-  <key>Alpha</key>
-  <dict>
-    <key>O</key>
-    <integer>-35</integer>
-    <key>Omicron</key>
-    <integer>-35</integer>
-    <key>Phi</key>
-    <integer>-40</integer>
-    <key>Psi</key>
-    <integer>-71</integer>
-    <key>T</key>
-    <integer>-12</integer>
-    <key>Tau</key>
-    <integer>-12</integer>
-    <key>Theta</key>
-    <integer>-35</integer>
-    <key>Upsilon</key>
-    <integer>-13</integer>
-    <key>Y</key>
-    <integer>-13</integer>
-    <key>comma</key>
-    <integer>37</integer>
-    <key>gamma</key>
-    <integer>-42</integer>
-    <key>guillemotright</key>
-    <integer>-21</integer>
-    <key>nu</key>
-    <integer>-42</integer>
-    <key>period</key>
-    <integer>29</integer>
-    <key>phi</key>
-    <integer>-12</integer>
-    <key>sigma</key>
-    <integer>-7</integer>
-    <key>upsilon</key>
-    <integer>-18</integer>
-    <key>upsilontonos</key>
-    <integer>-18</integer>
   </dict>
   <key>Alphatonos</key>
   <dict>
@@ -462,12 +457,12 @@
     <integer>-9</integer>
     <key>guilsinglleft</key>
     <integer>-9</integer>
+    <key>hyphen</key>
+    <integer>1</integer>
     <key>o</key>
     <integer>-7</integer>
     <key>period</key>
     <integer>29</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>1</integer>
     <key>q</key>
     <integer>-1</integer>
     <key>quotedblright</key>
@@ -546,17 +541,32 @@
     <integer>-13</integer>
     <key>Z</key>
     <integer>-1</integer>
+    <key>afii10024</key>
+    <integer>21</integer>
+    <key>afii10037</key>
+    <integer>-20</integer>
+    <key>afii10041</key>
+    <integer>-35</integer>
+    <key>afii10042</key>
+    <integer>-13</integer>
+    <key>afii10060</key>
+    <integer>-9</integer>
+    <key>afii10062</key>
+    <integer>-27</integer>
+    <key>afii10072</key>
+    <integer>-5</integer>
+    <key>afii10084</key>
+    <integer>-12</integer>
+    <key>afii10089</key>
+    <integer>-16</integer>
+    <key>afii10092</key>
+    <integer>-20</integer>
+    <key>afii10106</key>
+    <integer>-6</integer>
     <key>lambda</key>
     <integer>-8</integer>
     <key>y</key>
     <integer>-14</integer>
-  </dict>
-  <key>Beta</key>
-  <dict>
-    <key>Delta</key>
-    <integer>-50</integer>
-    <key>lambda</key>
-    <integer>-8</integer>
   </dict>
   <key>C</key>
   <dict>
@@ -588,6 +598,8 @@
     <integer>-3</integer>
     <key>Odieresis</key>
     <integer>-3</integer>
+    <key>Phi</key>
+    <integer>2</integer>
     <key>S</key>
     <integer>2</integer>
     <key>T</key>
@@ -596,6 +608,8 @@
     <integer>16</integer>
     <key>W</key>
     <integer>12</integer>
+    <key>X</key>
+    <integer>1</integer>
     <key>Y</key>
     <integer>25</integer>
     <key>a</key>
@@ -604,12 +618,36 @@
     <integer>-19</integer>
     <key>ae</key>
     <integer>-10</integer>
+    <key>afii10024</key>
+    <integer>16</integer>
+    <key>afii10025</key>
+    <integer>18</integer>
+    <key>afii10029</key>
+    <integer>16</integer>
+    <key>afii10037</key>
+    <integer>-3</integer>
+    <key>afii10049</key>
+    <integer>16</integer>
+    <key>afii10058</key>
+    <integer>16</integer>
+    <key>afii10060</key>
+    <integer>-5</integer>
+    <key>afii10062</key>
+    <integer>-10</integer>
+    <key>afii10084</key>
+    <integer>-17</integer>
+    <key>afii10089</key>
+    <integer>-6</integer>
+    <key>afii10106</key>
+    <integer>-19</integer>
     <key>colon</key>
     <integer>40</integer>
     <key>comma</key>
     <integer>18</integer>
     <key>e</key>
     <integer>-6</integer>
+    <key>hyphen</key>
+    <integer>27</integer>
     <key>o</key>
     <integer>-12</integer>
     <key>odieresis</key>
@@ -618,8 +656,6 @@
     <integer>-5</integer>
     <key>period</key>
     <integer>4</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>27</integer>
     <key>quotedblright</key>
     <integer>24</integer>
     <key>quoteright</key>
@@ -642,31 +678,6 @@
   <dict>
     <key>A</key>
     <integer>-20</integer>
-  </dict>
-  <key>Chi</key>
-  <dict>
-    <key>O</key>
-    <integer>-36</integer>
-    <key>Omicron</key>
-    <integer>-36</integer>
-    <key>Theta</key>
-    <integer>-36</integer>
-    <key>alpha</key>
-    <integer>-9</integer>
-    <key>alphatonos</key>
-    <integer>-9</integer>
-    <key>epsilontonos</key>
-    <integer>1</integer>
-    <key>o</key>
-    <integer>-13</integer>
-    <key>omega</key>
-    <integer>-3</integer>
-    <key>omicron</key>
-    <integer>-13</integer>
-    <key>omicrontonos</key>
-    <integer>-13</integer>
-    <key>tau</key>
-    <integer>-51</integer>
   </dict>
   <key>D</key>
   <dict>
@@ -710,14 +721,14 @@
     <integer>-8</integer>
     <key>e</key>
     <integer>-2</integer>
+    <key>hyphen</key>
+    <integer>29</integer>
     <key>o</key>
     <integer>-5</integer>
     <key>odieresis</key>
     <integer>-5</integer>
     <key>oe</key>
     <integer>2</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>29</integer>
     <key>y</key>
     <integer>1</integer>
   </dict>
@@ -725,10 +736,6 @@
   <dict>
     <key>O</key>
     <integer>-35</integer>
-    <key>Omicron</key>
-    <integer>-35</integer>
-    <key>Upsilon</key>
-    <integer>-15</integer>
     <key>Y</key>
     <integer>-15</integer>
     <key>alphatonos</key>
@@ -741,8 +748,6 @@
     <integer>-9</integer>
     <key>omegatonos</key>
     <integer>-6</integer>
-    <key>omicron</key>
-    <integer>-9</integer>
     <key>upsilon</key>
     <integer>-21</integer>
   </dict>
@@ -761,8 +766,6 @@
     <key>Oacute</key>
     <integer>-2</integer>
     <key>Odieresis</key>
-    <integer>-2</integer>
-    <key>Omicron</key>
     <integer>-2</integer>
     <key>Phi</key>
     <integer>4</integer>
@@ -800,6 +803,8 @@
     <integer>-11</integer>
     <key>h</key>
     <integer>-14</integer>
+    <key>hyphen</key>
+    <integer>33</integer>
     <key>i</key>
     <integer>-13</integer>
     <key>j</key>
@@ -812,8 +817,6 @@
     <integer>-8</integer>
     <key>o</key>
     <integer>-7</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>33</integer>
     <key>q</key>
     <integer>1</integer>
     <key>quotedblright</key>
@@ -836,25 +839,6 @@
     <integer>-11</integer>
     <key>z</key>
     <integer>-12</integer>
-  </dict>
-  <key>Epsilon</key>
-  <dict>
-    <key>O</key>
-    <integer>-2</integer>
-    <key>Omicron</key>
-    <integer>-2</integer>
-    <key>Phi</key>
-    <integer>4</integer>
-    <key>Theta</key>
-    <integer>-2</integer>
-    <key>delta</key>
-    <integer>-7</integer>
-    <key>gamma</key>
-    <integer>-11</integer>
-    <key>nu</key>
-    <integer>-8</integer>
-    <key>tau</key>
-    <integer>-4</integer>
   </dict>
   <key>Epsilontonos</key>
   <dict>
@@ -923,6 +907,8 @@
     <integer>-61</integer>
     <key>h</key>
     <integer>-14</integer>
+    <key>hyphen</key>
+    <integer>-37</integer>
     <key>i</key>
     <integer>-3</integer>
     <key>j</key>
@@ -943,8 +929,6 @@
     <integer>-62</integer>
     <key>period</key>
     <integer>-76</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-37</integer>
     <key>quotedblright</key>
     <integer>33</integer>
     <key>quoteright</key>
@@ -1008,6 +992,8 @@
     <integer>12</integer>
     <key>e</key>
     <integer>8</integer>
+    <key>hyphen</key>
+    <integer>33</integer>
     <key>o</key>
     <integer>5</integer>
     <key>odieresis</key>
@@ -1016,8 +1002,6 @@
     <integer>12</integer>
     <key>period</key>
     <integer>-1</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>33</integer>
     <key>quotedblright</key>
     <integer>16</integer>
     <key>quoteright</key>
@@ -1031,44 +1015,116 @@
   <dict>
     <key>A</key>
     <integer>-83</integer>
-    <key>Alpha</key>
-    <integer>-83</integer>
+    <key>C</key>
+    <integer>-3</integer>
     <key>Delta</key>
     <integer>-92</integer>
     <key>Lambda</key>
     <integer>-83</integer>
     <key>O</key>
     <integer>-4</integer>
-    <key>Omicron</key>
-    <integer>-4</integer>
+    <key>Phi</key>
+    <integer>11</integer>
+    <key>T</key>
+    <integer>9</integer>
     <key>Y</key>
     <integer>42</integer>
+    <key>a</key>
+    <integer>-79</integer>
+    <key>afii10021</key>
+    <integer>-39</integer>
+    <key>afii10029</key>
+    <integer>-65</integer>
+    <key>afii10037</key>
+    <integer>13</integer>
+    <key>afii10041</key>
+    <integer>19</integer>
+    <key>afii10053</key>
+    <integer>-2</integer>
+    <key>afii10058</key>
+    <integer>-65</integer>
+    <key>afii10060</key>
+    <integer>13</integer>
+    <key>afii10062</key>
+    <integer>6</integer>
+    <key>afii10067</key>
+    <integer>-73</integer>
+    <key>afii10069</key>
+    <integer>-54</integer>
+    <key>afii10072</key>
+    <integer>-53</integer>
+    <key>afii10073</key>
+    <integer>-56</integer>
+    <key>afii10077</key>
+    <integer>-82</integer>
+    <key>afii10078</key>
+    <integer>-78</integer>
+    <key>afii10079</key>
+    <integer>-3</integer>
+    <key>afii10082</key>
+    <integer>2</integer>
+    <key>afii10084</key>
+    <integer>-6</integer>
+    <key>afii10086</key>
+    <integer>-56</integer>
+    <key>afii10088</key>
+    <integer>-2</integer>
+    <key>afii10089</key>
+    <integer>4</integer>
+    <key>afii10092</key>
+    <integer>-26</integer>
+    <key>afii10096</key>
+    <integer>-3</integer>
+    <key>afii10097</key>
+    <integer>-77</integer>
+    <key>afii10101</key>
+    <integer>-71</integer>
+    <key>afii10106</key>
+    <integer>-82</integer>
+    <key>afii10110</key>
+    <integer>-14</integer>
     <key>alpha</key>
     <integer>-58</integer>
     <key>alphatonos</key>
     <integer>-58</integer>
+    <key>c</key>
+    <integer>-70</integer>
+    <key>colon</key>
+    <integer>-25</integer>
     <key>comma</key>
     <integer>-104</integer>
+    <key>e</key>
+    <integer>-70</integer>
     <key>epsilon</key>
     <integer>-46</integer>
     <key>epsilontonos</key>
     <integer>-46</integer>
+    <key>hyphen</key>
+    <integer>-70</integer>
     <key>kappa</key>
     <integer>2</integer>
+    <key>n</key>
+    <integer>-3</integer>
     <key>nu</key>
     <integer>-26</integer>
     <key>o</key>
-    <integer>-71</integer>
-    <key>omicron</key>
     <integer>-71</integer>
     <key>period</key>
     <integer>-114</integer>
     <key>rho</key>
     <integer>-64</integer>
+    <key>semicolon</key>
+    <integer>-25</integer>
+    <key>u</key>
+    <integer>-8</integer>
     <key>upsilon</key>
     <integer>-8</integer>
     <key>upsilontonos</key>
     <integer>-8</integer>
+    <key>x</key>
+    <integer>-45</integer>
+    <key>y</key>
+    <integer>-21</integer>
   </dict>
   <key>H</key>
   <dict>
@@ -1169,8 +1225,6 @@
     <integer>-33</integer>
     <key>Odieresis</key>
     <integer>-33</integer>
-    <key>Omicron</key>
-    <integer>-33</integer>
     <key>P</key>
     <integer>42</integer>
     <key>Phi</key>
@@ -1217,6 +1271,8 @@
     <integer>8</integer>
     <key>h</key>
     <integer>12</integer>
+    <key>hyphen</key>
+    <integer>-15</integer>
     <key>i</key>
     <integer>1</integer>
     <key>j</key>
@@ -1233,14 +1289,10 @@
     <integer>4</integer>
     <key>omega</key>
     <integer>4</integer>
-    <key>omicron</key>
-    <integer>-5</integer>
     <key>omicrontonos</key>
     <integer>-5</integer>
     <key>parenright</key>
     <integer>1</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-15</integer>
     <key>quotedblright</key>
     <integer>12</integer>
     <key>quoteright</key>
@@ -1264,8 +1316,6 @@
   <dict>
     <key>O</key>
     <integer>-33</integer>
-    <key>Omicron</key>
-    <integer>-33</integer>
     <key>Phi</key>
     <integer>-31</integer>
     <key>alphatonos</key>
@@ -1280,8 +1330,6 @@
     <integer>-5</integer>
     <key>omega</key>
     <integer>4</integer>
-    <key>omicron</key>
-    <integer>-5</integer>
     <key>omicrontonos</key>
     <integer>-5</integer>
     <key>period</key>
@@ -1339,6 +1387,8 @@
     <integer>-18</integer>
     <key>e</key>
     <integer>17</integer>
+    <key>hyphen</key>
+    <integer>51</integer>
     <key>i</key>
     <integer>2</integer>
     <key>j</key>
@@ -1349,8 +1399,6 @@
     <integer>11</integer>
     <key>parenright</key>
     <integer>-2</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>51</integer>
     <key>quotedblright</key>
     <integer>-41</integer>
     <key>quoteright</key>
@@ -1368,16 +1416,10 @@
   <dict>
     <key>O</key>
     <integer>-49</integer>
-    <key>Omicron</key>
-    <integer>-49</integer>
     <key>T</key>
-    <integer>-26</integer>
-    <key>Tau</key>
     <integer>-26</integer>
     <key>Theta</key>
     <integer>-49</integer>
-    <key>Upsilon</key>
-    <integer>-27</integer>
     <key>Y</key>
     <integer>-27</integer>
     <key>alphatonos</key>
@@ -1391,8 +1433,6 @@
     <key>guillemotright</key>
     <integer>-35</integer>
     <key>o</key>
-    <integer>-21</integer>
-    <key>omicron</key>
     <integer>-21</integer>
     <key>omicrontonos</key>
     <integer>-21</integer>
@@ -1478,11 +1518,6 @@
     <key>y</key>
     <integer>-42</integer>
   </dict>
-  <key>Mu</key>
-  <dict>
-    <key>epsilon</key>
-    <integer>-26</integer>
-  </dict>
   <key>N</key>
   <dict>
     <key>A</key>
@@ -1492,8 +1527,6 @@
     <key>Aacute</key>
     <integer>-34</integer>
     <key>Adieresis</key>
-    <integer>-34</integer>
-    <key>Alpha</key>
     <integer>-34</integer>
     <key>Aring</key>
     <integer>-34</integer>
@@ -1547,6 +1580,8 @@
     <integer>-32</integer>
     <key>omega</key>
     <integer>-28</integer>
+    <key>omicrontonos</key>
+    <integer>-32</integer>
     <key>oslash</key>
     <integer>-32</integer>
     <key>period</key>
@@ -1558,25 +1593,6 @@
     <key>y</key>
     <integer>-41</integer>
   </dict>
-  <key>Nu</key>
-  <dict>
-    <key>A</key>
-    <integer>-34</integer>
-    <key>Alpha</key>
-    <integer>-34</integer>
-    <key>epsilon</key>
-    <integer>-28</integer>
-    <key>epsilontonos</key>
-    <integer>-28</integer>
-    <key>o</key>
-    <integer>-32</integer>
-    <key>omega</key>
-    <integer>-28</integer>
-    <key>omicron</key>
-    <integer>-32</integer>
-    <key>omicrontonos</key>
-    <integer>-32</integer>
-  </dict>
   <key>O</key>
   <dict>
     <key>A</key>
@@ -1587,12 +1603,8 @@
     <integer>-46</integer>
     <key>Adieresis</key>
     <integer>-46</integer>
-    <key>Alpha</key>
-    <integer>-46</integer>
     <key>Aring</key>
     <integer>-46</integer>
-    <key>Chi</key>
-    <integer>-40</integer>
     <key>Delta</key>
     <integer>-57</integer>
     <key>G</key>
@@ -1611,10 +1623,6 @@
     <integer>-3</integer>
     <key>T</key>
     <integer>-5</integer>
-    <key>Tau</key>
-    <integer>-5</integer>
-    <key>Upsilon</key>
-    <integer>-32</integer>
     <key>V</key>
     <integer>-37</integer>
     <key>W</key>
@@ -1625,18 +1633,38 @@
     <integer>-32</integer>
     <key>Z</key>
     <integer>-8</integer>
-    <key>Zeta</key>
-    <integer>-8</integer>
+    <key>afii10021</key>
+    <integer>-38</integer>
+    <key>afii10024</key>
+    <integer>4</integer>
+    <key>afii10025</key>
+    <integer>12</integer>
+    <key>afii10037</key>
+    <integer>-32</integer>
+    <key>afii10041</key>
+    <integer>-38</integer>
+    <key>afii10044</key>
+    <integer>4</integer>
+    <key>afii10049</key>
+    <integer>-2</integer>
+    <key>afii10060</key>
+    <integer>-3</integer>
+    <key>afii10062</key>
+    <integer>-42</integer>
+    <key>afii10077</key>
+    <integer>-34</integer>
+    <key>afii10106</key>
+    <integer>-34</integer>
     <key>colon</key>
     <integer>44</integer>
     <key>comma</key>
     <integer>-3</integer>
+    <key>hyphen</key>
+    <integer>27</integer>
     <key>lambda</key>
     <integer>-10</integer>
     <key>period</key>
     <integer>-16</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>27</integer>
     <key>semicolon</key>
     <integer>46</integer>
     <key>v</key>
@@ -1723,31 +1751,6 @@
     <key>Y</key>
     <integer>-32</integer>
   </dict>
-  <key>Omicron</key>
-  <dict>
-    <key>A</key>
-    <integer>-46</integer>
-    <key>Alpha</key>
-    <integer>-46</integer>
-    <key>Chi</key>
-    <integer>-40</integer>
-    <key>Delta</key>
-    <integer>-57</integer>
-    <key>Lambda</key>
-    <integer>-49</integer>
-    <key>Psi</key>
-    <integer>-28</integer>
-    <key>Tau</key>
-    <integer>-5</integer>
-    <key>Upsilon</key>
-    <integer>-32</integer>
-    <key>Y</key>
-    <integer>-32</integer>
-    <key>Zeta</key>
-    <integer>-8</integer>
-    <key>lambda</key>
-    <integer>-10</integer>
-  </dict>
   <key>Omicrontonos</key>
   <dict>
     <key>lambda</key>
@@ -1781,8 +1784,6 @@
     <integer>-85</integer>
     <key>Adieresis</key>
     <integer>-85</integer>
-    <key>Alpha</key>
-    <integer>-85</integer>
     <key>Aogonek</key>
     <integer>-91</integer>
     <key>Aring</key>
@@ -1793,6 +1794,8 @@
     <integer>-7</integer>
     <key>D</key>
     <integer>-43</integer>
+    <key>Delta</key>
+    <integer>-91</integer>
     <key>E</key>
     <integer>-47</integer>
     <key>F</key>
@@ -1809,6 +1812,8 @@
     <integer>-47</integer>
     <key>L</key>
     <integer>-47</integer>
+    <key>Lambda</key>
+    <integer>-85</integer>
     <key>M</key>
     <integer>-46</integer>
     <key>N</key>
@@ -1817,10 +1822,10 @@
     <integer>-8</integer>
     <key>OE</key>
     <integer>-1</integer>
-    <key>Omicron</key>
-    <integer>-8</integer>
     <key>P</key>
     <integer>-50</integer>
+    <key>Phi</key>
+    <integer>10</integer>
     <key>Q</key>
     <integer>-8</integer>
     <key>R</key>
@@ -1829,6 +1834,8 @@
     <integer>-21</integer>
     <key>T</key>
     <integer>4</integer>
+    <key>Theta</key>
+    <integer>-9</integer>
     <key>U</key>
     <integer>-38</integer>
     <key>V</key>
@@ -1849,10 +1856,40 @@
     <integer>-59</integer>
     <key>ae</key>
     <integer>-28</integer>
+    <key>afii10021</key>
+    <integer>-69</integer>
+    <key>afii10029</key>
+    <integer>-61</integer>
+    <key>afii10041</key>
+    <integer>-24</integer>
+    <key>afii10049</key>
+    <integer>-41</integer>
+    <key>afii10058</key>
+    <integer>-61</integer>
+    <key>afii10067</key>
+    <integer>-53</integer>
+    <key>afii10068</key>
+    <integer>-31</integer>
+    <key>afii10069</key>
+    <integer>-48</integer>
+    <key>afii10073</key>
+    <integer>-37</integer>
+    <key>afii10077</key>
+    <integer>-75</integer>
+    <key>afii10086</key>
+    <integer>-39</integer>
+    <key>afii10101</key>
+    <integer>-50</integer>
+    <key>afii10106</key>
+    <integer>-75</integer>
     <key>alpha</key>
     <integer>-40</integer>
     <key>aring</key>
     <integer>-59</integer>
+    <key>c</key>
+    <integer>-49</integer>
+    <key>colon</key>
+    <integer>-7</integer>
     <key>comma</key>
     <integer>-92</integer>
     <key>e</key>
@@ -1867,6 +1904,8 @@
     <integer>-6</integer>
     <key>h</key>
     <integer>-48</integer>
+    <key>hyphen</key>
+    <integer>-47</integer>
     <key>i</key>
     <integer>1</integer>
     <key>j</key>
@@ -1883,22 +1922,20 @@
     <integer>-44</integer>
     <key>omegatonos</key>
     <integer>-50</integer>
-    <key>omicron</key>
-    <integer>-51</integer>
     <key>omicrontonos</key>
     <integer>-51</integer>
     <key>oslash</key>
     <integer>-52</integer>
     <key>period</key>
     <integer>-103</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-47</integer>
     <key>quotedblright</key>
     <integer>27</integer>
     <key>quoteright</key>
     <integer>20</integer>
     <key>quotesingle</key>
     <integer>12</integer>
+    <key>semicolon</key>
+    <integer>-10</integer>
     <key>t</key>
     <integer>-4</integer>
     <key>w</key>
@@ -1910,18 +1947,38 @@
   <dict>
     <key>A</key>
     <integer>-41</integer>
-    <key>Alpha</key>
-    <integer>-41</integer>
     <key>Lambda</key>
     <integer>-41</integer>
     <key>T</key>
     <integer>16</integer>
-    <key>Tau</key>
-    <integer>16</integer>
-    <key>Upsilon</key>
-    <integer>-29</integer>
+    <key>X</key>
+    <integer>-32</integer>
     <key>Y</key>
     <integer>-29</integer>
+    <key>afii10021</key>
+    <integer>-32</integer>
+    <key>afii10024</key>
+    <integer>14</integer>
+    <key>afii10029</key>
+    <integer>4</integer>
+    <key>afii10037</key>
+    <integer>-21</integer>
+    <key>afii10041</key>
+    <integer>-13</integer>
+    <key>afii10044</key>
+    <integer>26</integer>
+    <key>afii10049</key>
+    <integer>2</integer>
+    <key>afii10058</key>
+    <integer>6</integer>
+    <key>afii10062</key>
+    <integer>-31</integer>
+    <key>afii10069</key>
+    <integer>10</integer>
+    <key>afii10077</key>
+    <integer>-24</integer>
+    <key>afii10106</key>
+    <integer>-24</integer>
     <key>lambda</key>
     <integer>1</integer>
     <key>o</key>
@@ -1929,8 +1986,6 @@
     <key>omega</key>
     <integer>9</integer>
     <key>omegatonos</key>
-    <integer>9</integer>
-    <key>omicron</key>
     <integer>9</integer>
     <key>omicrontonos</key>
     <integer>9</integer>
@@ -1943,18 +1998,12 @@
     <integer>10</integer>
     <key>o</key>
     <integer>-26</integer>
-    <key>omicron</key>
-    <integer>-26</integer>
   </dict>
   <key>Psi</key>
   <dict>
     <key>A</key>
     <integer>-87</integer>
-    <key>Alpha</key>
-    <integer>-87</integer>
     <key>O</key>
-    <integer>-32</integer>
-    <key>Omicron</key>
     <integer>-32</integer>
   </dict>
   <key>Q</key>
@@ -1967,10 +2016,10 @@
     <integer>8</integer>
     <key>bracketright</key>
     <integer>-1</integer>
+    <key>hyphen</key>
+    <integer>29</integer>
     <key>parenright</key>
     <integer>13</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>29</integer>
     <key>u</key>
     <integer>-9</integer>
     <key>udieresis</key>
@@ -2062,6 +2111,8 @@
     <integer>2</integer>
     <key>eacute</key>
     <integer>2</integer>
+    <key>hyphen</key>
+    <integer>25</integer>
     <key>o</key>
     <integer>-5</integer>
     <key>oacute</key>
@@ -2072,8 +2123,6 @@
     <integer>3</integer>
     <key>parenright</key>
     <integer>14</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>25</integer>
     <key>quotedblright</key>
     <integer>5</integer>
     <key>quoteright</key>
@@ -2090,49 +2139,6 @@
     <integer>-36</integer>
     <key>yacute</key>
     <integer>-36</integer>
-  </dict>
-  <key>Rho</key>
-  <dict>
-    <key>A</key>
-    <integer>-85</integer>
-    <key>Alpha</key>
-    <integer>-85</integer>
-    <key>Delta</key>
-    <integer>-91</integer>
-    <key>Lambda</key>
-    <integer>-85</integer>
-    <key>Omicron</key>
-    <integer>-8</integer>
-    <key>Phi</key>
-    <integer>10</integer>
-    <key>Tau</key>
-    <integer>4</integer>
-    <key>Theta</key>
-    <integer>-9</integer>
-    <key>Upsilon</key>
-    <integer>-2</integer>
-    <key>Y</key>
-    <integer>-2</integer>
-    <key>alpha</key>
-    <integer>-40</integer>
-    <key>colon</key>
-    <integer>-7</integer>
-    <key>comma</key>
-    <integer>-92</integer>
-    <key>epsilon</key>
-    <integer>-31</integer>
-    <key>epsilontonos</key>
-    <integer>-31</integer>
-    <key>o</key>
-    <integer>-50</integer>
-    <key>omegatonos</key>
-    <integer>-49</integer>
-    <key>omicron</key>
-    <integer>-50</integer>
-    <key>omicrontonos</key>
-    <integer>-50</integer>
-    <key>period</key>
-    <integer>-103</integer>
   </dict>
   <key>S</key>
   <dict>
@@ -2178,6 +2184,8 @@
     <integer>2</integer>
     <key>h</key>
     <integer>-13</integer>
+    <key>hyphen</key>
+    <integer>38</integer>
     <key>i</key>
     <integer>-9</integer>
     <key>j</key>
@@ -2190,8 +2198,6 @@
     <integer>-3</integer>
     <key>oe</key>
     <integer>4</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>38</integer>
     <key>q</key>
     <integer>5</integer>
     <key>quotedblright</key>
@@ -2209,15 +2215,11 @@
   <dict>
     <key>O</key>
     <integer>2</integer>
-    <key>Omicron</key>
-    <integer>2</integer>
     <key>Theta</key>
     <integer>2</integer>
     <key>chi</key>
     <integer>-27</integer>
     <key>o</key>
-    <integer>-6</integer>
-    <key>omicron</key>
     <integer>-6</integer>
     <key>tau</key>
     <integer>-4</integer>
@@ -2237,8 +2239,6 @@
     <key>Adieresis</key>
     <integer>-55</integer>
     <key>Agrave</key>
-    <integer>-55</integer>
-    <key>Alpha</key>
     <integer>-55</integer>
     <key>Aogonek</key>
     <integer>-56</integer>
@@ -2274,8 +2274,6 @@
     <integer>3</integer>
     <key>Ohungarumlaut</key>
     <integer>3</integer>
-    <key>Omicron</key>
-    <integer>3</integer>
     <key>Oslash</key>
     <integer>3</integer>
     <key>Otilde</key>
@@ -2290,12 +2288,8 @@
     <integer>-10</integer>
     <key>T</key>
     <integer>13</integer>
-    <key>Tau</key>
-    <integer>13</integer>
     <key>U</key>
     <integer>5</integer>
-    <key>Upsilon</key>
-    <integer>45</integer>
     <key>V</key>
     <integer>36</integer>
     <key>W</key>
@@ -2314,6 +2308,60 @@
     <integer>-60</integer>
     <key>ae</key>
     <integer>-19</integer>
+    <key>afii10021</key>
+    <integer>-36</integer>
+    <key>afii10025</key>
+    <integer>1</integer>
+    <key>afii10029</key>
+    <integer>-49</integer>
+    <key>afii10037</key>
+    <integer>16</integer>
+    <key>afii10049</key>
+    <integer>-22</integer>
+    <key>afii10053</key>
+    <integer>5</integer>
+    <key>afii10058</key>
+    <integer>-49</integer>
+    <key>afii10060</key>
+    <integer>17</integer>
+    <key>afii10062</key>
+    <integer>9</integer>
+    <key>afii10067</key>
+    <integer>-54</integer>
+    <key>afii10068</key>
+    <integer>-31</integer>
+    <key>afii10069</key>
+    <integer>-49</integer>
+    <key>afii10072</key>
+    <integer>-34</integer>
+    <key>afii10073</key>
+    <integer>-37</integer>
+    <key>afii10077</key>
+    <integer>-63</integer>
+    <key>afii10078</key>
+    <integer>-60</integer>
+    <key>afii10079</key>
+    <integer>10</integer>
+    <key>afii10082</key>
+    <integer>11</integer>
+    <key>afii10084</key>
+    <integer>8</integer>
+    <key>afii10086</key>
+    <integer>-37</integer>
+    <key>afii10088</key>
+    <integer>6</integer>
+    <key>afii10089</key>
+    <integer>18</integer>
+    <key>afii10092</key>
+    <integer>-7</integer>
+    <key>afii10097</key>
+    <integer>-58</integer>
+    <key>afii10101</key>
+    <integer>-52</integer>
+    <key>afii10106</key>
+    <integer>-63</integer>
+    <key>afii10110</key>
+    <integer>3</integer>
     <key>alpha</key>
     <integer>-39</integer>
     <key>alphatonos</key>
@@ -2348,18 +2396,26 @@
     <integer>-37</integer>
     <key>guillemotleft</key>
     <integer>-87</integer>
+    <key>guillemotright</key>
+    <integer>-13</integer>
     <key>guilsinglleft</key>
     <integer>-87</integer>
     <key>h</key>
     <integer>-5</integer>
+    <key>hyphen</key>
+    <integer>-84</integer>
     <key>i</key>
     <integer>11</integer>
     <key>iacute</key>
     <integer>6</integer>
     <key>j</key>
     <integer>-13</integer>
+    <key>kappa</key>
+    <integer>11</integer>
     <key>l</key>
     <integer>-3</integer>
+    <key>n</key>
+    <integer>11</integer>
     <key>o</key>
     <integer>-52</integer>
     <key>oacute</key>
@@ -2374,8 +2430,6 @@
     <integer>-41</integer>
     <key>omegatonos</key>
     <integer>-50</integer>
-    <key>omicron</key>
-    <integer>-52</integer>
     <key>omicrontonos</key>
     <integer>-52</integer>
     <key>oslash</key>
@@ -2384,8 +2438,6 @@
     <integer>-10</integer>
     <key>period</key>
     <integer>-85</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-84</integer>
     <key>quotedblright</key>
     <integer>28</integer>
     <key>quoteright</key>
@@ -2426,69 +2478,12 @@
     <integer>8</integer>
     <key>w</key>
     <integer>14</integer>
+    <key>x</key>
+    <integer>-27</integer>
     <key>y</key>
     <integer>-3</integer>
     <key>yacute</key>
     <integer>-3</integer>
-    <key>zeta</key>
-    <integer>5</integer>
-  </dict>
-  <key>Tau</key>
-  <dict>
-    <key>A</key>
-    <integer>-55</integer>
-    <key>Alpha</key>
-    <integer>-55</integer>
-    <key>Lambda</key>
-    <integer>-55</integer>
-    <key>O</key>
-    <integer>3</integer>
-    <key>Omicron</key>
-    <integer>3</integer>
-    <key>Phi</key>
-    <integer>21</integer>
-    <key>T</key>
-    <integer>13</integer>
-    <key>Tau</key>
-    <integer>13</integer>
-    <key>Upsilon</key>
-    <integer>45</integer>
-    <key>Y</key>
-    <integer>45</integer>
-    <key>alpha</key>
-    <integer>-39</integer>
-    <key>alphatonos</key>
-    <integer>-39</integer>
-    <key>comma</key>
-    <integer>-67</integer>
-    <key>epsilon</key>
-    <integer>-27</integer>
-    <key>epsilontonos</key>
-    <integer>-27</integer>
-    <key>guillemotright</key>
-    <integer>-13</integer>
-    <key>o</key>
-    <integer>-52</integer>
-    <key>omegatonos</key>
-    <integer>-50</integer>
-    <key>omicron</key>
-    <integer>-52</integer>
-    <key>omicrontonos</key>
-    <integer>-52</integer>
-    <key>period</key>
-    <integer>-79</integer>
-    <key>quoteright</key>
-    <integer>37</integer>
-    <key>rho</key>
-    <integer>-45</integer>
-    <key>semicolon</key>
-    <integer>2</integer>
-    <key>sigma</key>
-    <integer>-49</integer>
-    <key>upsilon</key>
-    <integer>5</integer>
-    <key>upsilontonos</key>
-    <integer>5</integer>
     <key>zeta</key>
     <integer>5</integer>
   </dict>
@@ -2520,6 +2515,8 @@
     <integer>-51</integer>
     <key>eogonek</key>
     <integer>-51</integer>
+    <key>hyphen</key>
+    <integer>-49</integer>
     <key>nacute</key>
     <integer>11</integer>
     <key>ncaron</key>
@@ -2530,8 +2527,6 @@
     <integer>-41</integer>
     <key>period</key>
     <integer>-79</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-49</integer>
     <key>racute</key>
     <integer>11</integer>
     <key>rcaron</key>
@@ -2614,12 +2609,8 @@
   <dict>
     <key>A</key>
     <integer>-45</integer>
-    <key>Alpha</key>
-    <integer>-45</integer>
     <key>Lambda</key>
     <integer>-48</integer>
-    <key>Upsilon</key>
-    <integer>-32</integer>
     <key>Y</key>
     <integer>-32</integer>
   </dict>
@@ -2723,37 +2714,6 @@
   <dict>
     <key>A</key>
     <integer>-50</integer>
-  </dict>
-  <key>Upsilon</key>
-  <dict>
-    <key>A</key>
-    <integer>-49</integer>
-    <key>Alpha</key>
-    <integer>-49</integer>
-    <key>Delta</key>
-    <integer>-103</integer>
-    <key>O</key>
-    <integer>-46</integer>
-    <key>Omicron</key>
-    <integer>-46</integer>
-    <key>Phi</key>
-    <integer>-56</integer>
-    <key>T</key>
-    <integer>19</integer>
-    <key>Tau</key>
-    <integer>19</integer>
-    <key>Theta</key>
-    <integer>-47</integer>
-    <key>comma</key>
-    <integer>-63</integer>
-    <key>guillemotright</key>
-    <integer>-97</integer>
-    <key>omicrontonos</key>
-    <integer>-94</integer>
-    <key>period</key>
-    <integer>-80</integer>
-    <key>pi</key>
-    <integer>-101</integer>
   </dict>
   <key>Upsilontonos</key>
   <dict>
@@ -2862,6 +2822,8 @@
     <integer>-57</integer>
     <key>h</key>
     <integer>6</integer>
+    <key>hyphen</key>
+    <integer>-61</integer>
     <key>i</key>
     <integer>-26</integer>
     <key>iacute</key>
@@ -2888,8 +2850,6 @@
     <integer>-2</integer>
     <key>period</key>
     <integer>-93</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-61</integer>
     <key>r</key>
     <integer>-53</integer>
     <key>racute</key>
@@ -3035,6 +2995,8 @@
     <integer>-32</integer>
     <key>guilsinglleft</key>
     <integer>-32</integer>
+    <key>hyphen</key>
+    <integer>-28</integer>
     <key>i</key>
     <integer>-31</integer>
     <key>iacute</key>
@@ -3061,8 +3023,6 @@
     <integer>-7</integer>
     <key>period</key>
     <integer>-56</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-28</integer>
     <key>quotedblright</key>
     <integer>16</integer>
     <key>quoteright</key>
@@ -3108,10 +3068,14 @@
     <integer>-27</integer>
     <key>Odieresis</key>
     <integer>-36</integer>
+    <key>Phi</key>
+    <integer>-34</integer>
     <key>Q</key>
     <integer>-35</integer>
     <key>T</key>
     <integer>18</integer>
+    <key>Theta</key>
+    <integer>-36</integer>
     <key>W</key>
     <integer>47</integer>
     <key>Y</key>
@@ -3120,6 +3084,20 @@
     <integer>-11</integer>
     <key>ae</key>
     <integer>18</integer>
+    <key>afii10025</key>
+    <integer>9</integer>
+    <key>afii10053</key>
+    <integer>-35</integer>
+    <key>afii10073</key>
+    <integer>12</integer>
+    <key>afii10084</key>
+    <integer>1</integer>
+    <key>afii10086</key>
+    <integer>-9</integer>
+    <key>afii10089</key>
+    <integer>-90</integer>
+    <key>afii10101</key>
+    <integer>-6</integer>
     <key>alpha</key>
     <integer>-9</integer>
     <key>alphatonos</key>
@@ -3128,26 +3106,26 @@
     <integer>-11</integer>
     <key>bracketright</key>
     <integer>-12</integer>
+    <key>c</key>
+    <integer>-7</integer>
     <key>e</key>
     <integer>-1</integer>
     <key>eacute</key>
     <integer>-1</integer>
     <key>epsilontonos</key>
     <integer>1</integer>
+    <key>hyphen</key>
+    <integer>-23</integer>
     <key>o</key>
     <integer>-13</integer>
     <key>odieresis</key>
     <integer>-13</integer>
     <key>omega</key>
     <integer>-3</integer>
-    <key>omicron</key>
-    <integer>-13</integer>
     <key>omicrontonos</key>
     <integer>-13</integer>
     <key>parenright</key>
     <integer>5</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-23</integer>
     <key>quotedblright</key>
     <integer>20</integer>
     <key>quoteright</key>
@@ -3184,8 +3162,6 @@
     <integer>-49</integer>
     <key>Agrave</key>
     <integer>-49</integer>
-    <key>Alpha</key>
-    <integer>-49</integer>
     <key>Aogonek</key>
     <integer>-50</integer>
     <key>Aring</key>
@@ -3212,8 +3188,6 @@
     <integer>-46</integer>
     <key>Ograve</key>
     <integer>-46</integer>
-    <key>Omicron</key>
-    <integer>-46</integer>
     <key>Oslash</key>
     <integer>-47</integer>
     <key>Otilde</key>
@@ -3225,8 +3199,6 @@
     <key>S</key>
     <integer>-16</integer>
     <key>T</key>
-    <integer>19</integer>
-    <key>Tau</key>
     <integer>19</integer>
     <key>Theta</key>
     <integer>-47</integer>
@@ -3270,8 +3242,12 @@
     <integer>-94</integer>
     <key>guillemotleft</key>
     <integer>-76</integer>
+    <key>guillemotright</key>
+    <integer>-97</integer>
     <key>guilsinglleft</key>
     <integer>-76</integer>
+    <key>hyphen</key>
+    <integer>-79</integer>
     <key>i</key>
     <integer>-21</integer>
     <key>iacute</key>
@@ -3300,8 +3276,6 @@
     <integer>-80</integer>
     <key>pi</key>
     <integer>-101</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-79</integer>
     <key>q</key>
     <integer>-82</integer>
     <key>quotedblright</key>
@@ -3357,14 +3331,14 @@
     <integer>-88</integer>
     <key>eogonek</key>
     <integer>-88</integer>
+    <key>hyphen</key>
+    <integer>-79</integer>
     <key>oacute</key>
     <integer>-94</integer>
     <key>ohungarumlaut</key>
     <integer>-75</integer>
     <key>period</key>
     <integer>-80</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-79</integer>
     <key>scedilla</key>
     <integer>-90</integer>
     <key>semicolon</key>
@@ -3406,6 +3380,8 @@
     <integer>40</integer>
     <key>e</key>
     <integer>2</integer>
+    <key>hyphen</key>
+    <integer>42</integer>
     <key>i</key>
     <integer>-8</integer>
     <key>oe</key>
@@ -3414,8 +3390,6 @@
     <integer>20</integer>
     <key>period</key>
     <integer>25</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>42</integer>
     <key>quotedblright</key>
     <integer>3</integer>
     <key>quotesingle</key>
@@ -3429,15 +3403,16 @@
     <key>y</key>
     <integer>2</integer>
   </dict>
-  <key>Zeta</key>
-  <dict>
-    <key>O</key>
-    <integer>-1</integer>
-    <key>Omicron</key>
-    <integer>-1</integer>
-  </dict>
   <key>a</key>
   <dict>
+    <key>afii10084</key>
+    <integer>-11</integer>
+    <key>afii10089</key>
+    <integer>-22</integer>
+    <key>afii10106</key>
+    <integer>14</integer>
+    <key>afii10110</key>
+    <integer>6</integer>
     <key>comma</key>
     <integer>33</integer>
     <key>endash</key>
@@ -3512,77 +3487,14 @@
     <key>y</key>
     <integer>-5</integer>
   </dict>
-  <key>afii10017</key>
-  <dict>
-    <key>afii10025</key>
-    <integer>14</integer>
-    <key>afii10029</key>
-    <integer>57</integer>
-    <key>afii10032</key>
-    <integer>-35</integer>
-    <key>afii10035</key>
-    <integer>-36</integer>
-    <key>afii10036</key>
-    <integer>-12</integer>
-    <key>afii10037</key>
-    <integer>3</integer>
-    <key>afii10038</key>
-    <integer>-40</integer>
-    <key>afii10041</key>
-    <integer>-85</integer>
-    <key>afii10044</key>
-    <integer>-42</integer>
-    <key>afii10053</key>
-    <integer>-37</integer>
-    <key>afii10058</key>
-    <integer>57</integer>
-    <key>afii10060</key>
-    <integer>-8</integer>
-    <key>afii10062</key>
-    <integer>-4</integer>
-    <key>afii10073</key>
-    <integer>17</integer>
-    <key>afii10077</key>
-    <integer>32</integer>
-    <key>afii10080</key>
-    <integer>-7</integer>
-    <key>afii10083</key>
-    <integer>-2</integer>
-    <key>afii10084</key>
-    <integer>6</integer>
-    <key>afii10085</key>
-    <integer>-47</integer>
-    <key>afii10086</key>
-    <integer>-3</integer>
-    <key>afii10089</key>
-    <integer>-61</integer>
-    <key>afii10092</key>
-    <integer>-33</integer>
-    <key>afii10106</key>
-    <integer>32</integer>
-    <key>afii10110</key>
-    <integer>-38</integer>
-    <key>colon</key>
-    <integer>37</integer>
-    <key>comma</key>
-    <integer>37</integer>
-    <key>guillemotright</key>
-    <integer>-21</integer>
-    <key>period</key>
-    <integer>29</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>1</integer>
-    <key>semicolon</key>
-    <integer>38</integer>
-  </dict>
   <key>afii10018</key>
   <dict>
-    <key>afii10017</key>
+    <key>A</key>
     <integer>4</integer>
+    <key>T</key>
+    <integer>-1</integer>
     <key>afii10024</key>
     <integer>30</integer>
-    <key>afii10036</key>
-    <integer>-1</integer>
     <key>afii10037</key>
     <integer>-5</integer>
     <key>afii10041</key>
@@ -3593,166 +3505,33 @@
     <integer>5</integer>
     <key>afii10084</key>
     <integer>-2</integer>
-    <key>afii10085</key>
-    <integer>2</integer>
     <key>afii10092</key>
     <integer>-1</integer>
     <key>afii10110</key>
     <integer>9</integer>
-  </dict>
-  <key>afii10019</key>
-  <dict>
-    <key>afii10024</key>
-    <integer>21</integer>
-    <key>afii10036</key>
-    <integer>-12</integer>
-    <key>afii10037</key>
-    <integer>-20</integer>
-    <key>afii10041</key>
-    <integer>-35</integer>
-    <key>afii10042</key>
-    <integer>-13</integer>
-    <key>afii10060</key>
-    <integer>-9</integer>
-    <key>afii10062</key>
-    <integer>-27</integer>
-    <key>afii10072</key>
-    <integer>-5</integer>
-    <key>afii10084</key>
-    <integer>-12</integer>
-    <key>afii10085</key>
-    <integer>-14</integer>
-    <key>afii10089</key>
-    <integer>-16</integer>
-    <key>afii10092</key>
-    <integer>-20</integer>
-    <key>afii10106</key>
-    <integer>-6</integer>
-  </dict>
-  <key>afii10020</key>
-  <dict>
-    <key>afii10021</key>
-    <integer>-39</integer>
-    <key>afii10029</key>
-    <integer>-65</integer>
-    <key>afii10032</key>
-    <integer>-4</integer>
-    <key>afii10035</key>
-    <integer>-3</integer>
-    <key>afii10036</key>
-    <integer>9</integer>
-    <key>afii10037</key>
-    <integer>13</integer>
-    <key>afii10038</key>
-    <integer>11</integer>
-    <key>afii10041</key>
-    <integer>19</integer>
-    <key>afii10053</key>
-    <integer>-2</integer>
-    <key>afii10058</key>
-    <integer>-65</integer>
-    <key>afii10060</key>
-    <integer>13</integer>
-    <key>afii10062</key>
-    <integer>6</integer>
-    <key>afii10065</key>
-    <integer>-79</integer>
-    <key>afii10067</key>
-    <integer>-73</integer>
-    <key>afii10069</key>
-    <integer>-54</integer>
-    <key>afii10070</key>
-    <integer>-70</integer>
-    <key>afii10072</key>
-    <integer>-53</integer>
-    <key>afii10073</key>
-    <integer>-56</integer>
-    <key>afii10074</key>
-    <integer>-8</integer>
-    <key>afii10076</key>
+    <key>y</key>
     <integer>2</integer>
-    <key>afii10077</key>
-    <integer>-82</integer>
-    <key>afii10078</key>
-    <integer>-78</integer>
-    <key>afii10079</key>
-    <integer>-3</integer>
-    <key>afii10080</key>
-    <integer>-71</integer>
-    <key>afii10081</key>
-    <integer>-3</integer>
-    <key>afii10082</key>
-    <integer>2</integer>
-    <key>afii10083</key>
-    <integer>-70</integer>
-    <key>afii10084</key>
-    <integer>-6</integer>
-    <key>afii10085</key>
-    <integer>-21</integer>
-    <key>afii10086</key>
-    <integer>-56</integer>
-    <key>afii10087</key>
-    <integer>-45</integer>
-    <key>afii10088</key>
-    <integer>-2</integer>
-    <key>afii10089</key>
-    <integer>4</integer>
-    <key>afii10092</key>
-    <integer>-26</integer>
-    <key>afii10096</key>
-    <integer>-3</integer>
-    <key>afii10097</key>
-    <integer>-77</integer>
-    <key>afii10101</key>
-    <integer>-71</integer>
-    <key>afii10106</key>
-    <integer>-82</integer>
-    <key>afii10110</key>
-    <integer>-14</integer>
-    <key>colon</key>
-    <integer>-25</integer>
-    <key>comma</key>
-    <integer>-104</integer>
-    <key>period</key>
-    <integer>-114</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-70</integer>
-    <key>semicolon</key>
-    <integer>-25</integer>
-  </dict>
-  <key>afii10022</key>
-  <dict>
-    <key>afii10038</key>
-    <integer>4</integer>
   </dict>
   <key>afii10024</key>
   <dict>
+    <key>C</key>
+    <integer>8</integer>
+    <key>O</key>
+    <integer>8</integer>
+    <key>Phi</key>
+    <integer>13</integer>
+    <key>a</key>
+    <integer>-1</integer>
     <key>afii10025</key>
     <integer>33</integer>
-    <key>afii10032</key>
-    <integer>8</integer>
-    <key>afii10035</key>
-    <integer>8</integer>
-    <key>afii10038</key>
-    <integer>13</integer>
     <key>afii10053</key>
     <integer>8</integer>
-    <key>afii10065</key>
-    <integer>-1</integer>
     <key>afii10066</key>
     <integer>6</integer>
-    <key>afii10070</key>
-    <integer>8</integer>
     <key>afii10073</key>
-    <integer>5</integer>
-    <key>afii10080</key>
-    <integer>2</integer>
-    <key>afii10083</key>
     <integer>5</integer>
     <key>afii10084</key>
     <integer>-5</integer>
-    <key>afii10085</key>
-    <integer>-15</integer>
     <key>afii10086</key>
     <integer>2</integer>
     <key>afii10089</key>
@@ -3761,11 +3540,21 @@
     <integer>5</integer>
     <key>afii10110</key>
     <integer>12</integer>
+    <key>c</key>
+    <integer>5</integer>
+    <key>e</key>
+    <integer>8</integer>
+    <key>o</key>
+    <integer>2</integer>
+    <key>y</key>
+    <integer>-15</integer>
   </dict>
   <key>afii10025</key>
   <dict>
-    <key>afii10017</key>
+    <key>A</key>
     <integer>4</integer>
+    <key>T</key>
+    <integer>19</integer>
     <key>afii10021</key>
     <integer>5</integer>
     <key>afii10024</key>
@@ -3774,8 +3563,6 @@
     <integer>36</integer>
     <key>afii10029</key>
     <integer>35</integer>
-    <key>afii10036</key>
-    <integer>19</integer>
     <key>afii10037</key>
     <integer>-1</integer>
     <key>afii10041</key>
@@ -3792,10 +3579,6 @@
     <integer>1</integer>
     <key>afii10084</key>
     <integer>9</integer>
-    <key>afii10085</key>
-    <integer>1</integer>
-    <key>afii10087</key>
-    <integer>14</integer>
     <key>afii10089</key>
     <integer>19</integer>
     <key>afii10097</key>
@@ -3804,280 +3587,70 @@
     <integer>1</integer>
     <key>afii10110</key>
     <integer>18</integer>
+    <key>x</key>
+    <integer>14</integer>
+    <key>y</key>
+    <integer>1</integer>
   </dict>
   <key>afii10028</key>
   <dict>
+    <key>C</key>
+    <integer>8</integer>
+    <key>O</key>
+    <integer>8</integer>
+    <key>Phi</key>
+    <integer>13</integer>
+    <key>a</key>
+    <integer>-1</integer>
     <key>afii10025</key>
     <integer>33</integer>
-    <key>afii10032</key>
-    <integer>8</integer>
-    <key>afii10035</key>
-    <integer>8</integer>
-    <key>afii10038</key>
-    <integer>13</integer>
     <key>afii10053</key>
     <integer>8</integer>
-    <key>afii10065</key>
-    <integer>-1</integer>
     <key>afii10066</key>
     <integer>6</integer>
-    <key>afii10070</key>
-    <integer>8</integer>
     <key>afii10073</key>
-    <integer>5</integer>
-    <key>afii10080</key>
-    <integer>2</integer>
-    <key>afii10083</key>
     <integer>5</integer>
     <key>afii10084</key>
     <integer>-5</integer>
-    <key>afii10085</key>
+    <key>afii10086</key>
+    <integer>2</integer>
+    <key>afii10089</key>
+    <integer>-27</integer>
+    <key>afii10101</key>
+    <integer>5</integer>
+    <key>afii10110</key>
+    <integer>12</integer>
+    <key>c</key>
+    <integer>5</integer>
+    <key>e</key>
+    <integer>8</integer>
+    <key>o</key>
+    <integer>2</integer>
+    <key>y</key>
     <integer>-15</integer>
-    <key>afii10086</key>
-    <integer>2</integer>
-    <key>afii10089</key>
-    <integer>-27</integer>
-    <key>afii10101</key>
-    <integer>5</integer>
-    <key>afii10110</key>
-    <integer>12</integer>
-  </dict>
-  <key>afii10032</key>
-  <dict>
-    <key>afii10017</key>
-    <integer>-46</integer>
-    <key>afii10021</key>
-    <integer>-38</integer>
-    <key>afii10024</key>
-    <integer>4</integer>
-    <key>afii10025</key>
-    <integer>12</integer>
-    <key>afii10036</key>
-    <integer>-5</integer>
-    <key>afii10037</key>
-    <integer>-32</integer>
-    <key>afii10039</key>
-    <integer>-40</integer>
-    <key>afii10041</key>
-    <integer>-38</integer>
-    <key>afii10044</key>
-    <integer>4</integer>
-    <key>afii10049</key>
-    <integer>-2</integer>
-    <key>afii10060</key>
-    <integer>-3</integer>
-    <key>afii10062</key>
-    <integer>-42</integer>
-    <key>afii10077</key>
-    <integer>-34</integer>
-    <key>afii10106</key>
-    <integer>-34</integer>
-  </dict>
-  <key>afii10034</key>
-  <dict>
-    <key>afii10017</key>
-    <integer>-85</integer>
-    <key>afii10021</key>
-    <integer>-69</integer>
-    <key>afii10029</key>
-    <integer>-61</integer>
-    <key>afii10035</key>
-    <integer>-7</integer>
-    <key>afii10041</key>
-    <integer>-24</integer>
-    <key>afii10049</key>
-    <integer>-41</integer>
-    <key>afii10058</key>
-    <integer>-61</integer>
-    <key>afii10065</key>
-    <integer>-59</integer>
-    <key>afii10067</key>
-    <integer>-53</integer>
-    <key>afii10068</key>
-    <integer>-31</integer>
-    <key>afii10069</key>
-    <integer>-48</integer>
-    <key>afii10070</key>
-    <integer>-49</integer>
-    <key>afii10073</key>
-    <integer>-37</integer>
-    <key>afii10077</key>
-    <integer>-75</integer>
-    <key>afii10080</key>
-    <integer>-50</integer>
-    <key>afii10083</key>
-    <integer>-49</integer>
-    <key>afii10086</key>
-    <integer>-39</integer>
-    <key>afii10101</key>
-    <integer>-50</integer>
-    <key>afii10106</key>
-    <integer>-75</integer>
-    <key>colon</key>
-    <integer>-7</integer>
-    <key>comma</key>
-    <integer>-92</integer>
-    <key>period</key>
-    <integer>-103</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-47</integer>
-    <key>semicolon</key>
-    <integer>-10</integer>
-  </dict>
-  <key>afii10035</key>
-  <dict>
-    <key>afii10017</key>
-    <integer>-16</integer>
-    <key>afii10024</key>
-    <integer>16</integer>
-    <key>afii10025</key>
-    <integer>18</integer>
-    <key>afii10029</key>
-    <integer>16</integer>
-    <key>afii10032</key>
-    <integer>-3</integer>
-    <key>afii10035</key>
-    <integer>-3</integer>
-    <key>afii10036</key>
-    <integer>-7</integer>
-    <key>afii10037</key>
-    <integer>-3</integer>
-    <key>afii10038</key>
-    <integer>2</integer>
-    <key>afii10039</key>
-    <integer>1</integer>
-    <key>afii10049</key>
-    <integer>16</integer>
-    <key>afii10058</key>
-    <integer>16</integer>
-    <key>afii10060</key>
-    <integer>-5</integer>
-    <key>afii10062</key>
-    <integer>-10</integer>
-    <key>afii10084</key>
-    <integer>-17</integer>
-    <key>afii10085</key>
-    <integer>-26</integer>
-    <key>afii10089</key>
-    <integer>-6</integer>
-    <key>afii10106</key>
-    <integer>-19</integer>
-  </dict>
-  <key>afii10036</key>
-  <dict>
-    <key>afii10017</key>
-    <integer>-55</integer>
-    <key>afii10021</key>
-    <integer>-36</integer>
-    <key>afii10025</key>
-    <integer>1</integer>
-    <key>afii10029</key>
-    <integer>-49</integer>
-    <key>afii10032</key>
-    <integer>3</integer>
-    <key>afii10035</key>
-    <integer>4</integer>
-    <key>afii10036</key>
-    <integer>13</integer>
-    <key>afii10037</key>
-    <integer>16</integer>
-    <key>afii10038</key>
-    <integer>21</integer>
-    <key>afii10049</key>
-    <integer>-22</integer>
-    <key>afii10053</key>
-    <integer>5</integer>
-    <key>afii10058</key>
-    <integer>-49</integer>
-    <key>afii10060</key>
-    <integer>17</integer>
-    <key>afii10062</key>
-    <integer>9</integer>
-    <key>afii10065</key>
-    <integer>-60</integer>
-    <key>afii10067</key>
-    <integer>-54</integer>
-    <key>afii10068</key>
-    <integer>-31</integer>
-    <key>afii10069</key>
-    <integer>-49</integer>
-    <key>afii10070</key>
-    <integer>-51</integer>
-    <key>afii10072</key>
-    <integer>-34</integer>
-    <key>afii10073</key>
-    <integer>-37</integer>
-    <key>afii10074</key>
-    <integer>5</integer>
-    <key>afii10076</key>
-    <integer>11</integer>
-    <key>afii10077</key>
-    <integer>-63</integer>
-    <key>afii10078</key>
-    <integer>-60</integer>
-    <key>afii10079</key>
-    <integer>10</integer>
-    <key>afii10080</key>
-    <integer>-52</integer>
-    <key>afii10081</key>
-    <integer>11</integer>
-    <key>afii10082</key>
-    <integer>11</integer>
-    <key>afii10083</key>
-    <integer>-51</integer>
-    <key>afii10084</key>
-    <integer>8</integer>
-    <key>afii10085</key>
-    <integer>-3</integer>
-    <key>afii10086</key>
-    <integer>-37</integer>
-    <key>afii10087</key>
-    <integer>-27</integer>
-    <key>afii10088</key>
-    <integer>6</integer>
-    <key>afii10089</key>
-    <integer>18</integer>
-    <key>afii10092</key>
-    <integer>-7</integer>
-    <key>afii10097</key>
-    <integer>-58</integer>
-    <key>afii10101</key>
-    <integer>-52</integer>
-    <key>afii10106</key>
-    <integer>-63</integer>
-    <key>afii10110</key>
-    <integer>3</integer>
-    <key>comma</key>
-    <integer>-67</integer>
-    <key>guillemotright</key>
-    <integer>-13</integer>
-    <key>period</key>
-    <integer>-79</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-49</integer>
-    <key>semicolon</key>
-    <integer>2</integer>
   </dict>
   <key>afii10037</key>
   <dict>
-    <key>afii10017</key>
+    <key>A</key>
     <integer>-112</integer>
+    <key>C</key>
+    <integer>-45</integer>
+    <key>O</key>
+    <integer>-46</integer>
+    <key>Phi</key>
+    <integer>-58</integer>
+    <key>T</key>
+    <integer>19</integer>
+    <key>a</key>
+    <integer>-109</integer>
     <key>afii10021</key>
     <integer>-19</integer>
     <key>afii10025</key>
     <integer>7</integer>
     <key>afii10029</key>
     <integer>-51</integer>
-    <key>afii10032</key>
-    <integer>-46</integer>
-    <key>afii10035</key>
-    <integer>-45</integer>
-    <key>afii10036</key>
-    <integer>19</integer>
     <key>afii10037</key>
     <integer>33</integer>
-    <key>afii10038</key>
-    <integer>-58</integer>
     <key>afii10041</key>
     <integer>39</integer>
     <key>afii10049</key>
@@ -4088,44 +3661,26 @@
     <integer>-51</integer>
     <key>afii10060</key>
     <integer>23</integer>
-    <key>afii10065</key>
-    <integer>-109</integer>
     <key>afii10066</key>
     <integer>-80</integer>
     <key>afii10069</key>
     <integer>-49</integer>
-    <key>afii10070</key>
-    <integer>-100</integer>
     <key>afii10072</key>
     <integer>-102</integer>
     <key>afii10073</key>
     <integer>-102</integer>
-    <key>afii10074</key>
-    <integer>-73</integer>
-    <key>afii10076</key>
-    <integer>-65</integer>
     <key>afii10077</key>
     <integer>-126</integer>
     <key>afii10078</key>
     <integer>-122</integer>
     <key>afii10079</key>
     <integer>-67</integer>
-    <key>afii10080</key>
-    <integer>-100</integer>
-    <key>afii10081</key>
-    <integer>-67</integer>
     <key>afii10082</key>
     <integer>-65</integer>
-    <key>afii10083</key>
-    <integer>-103</integer>
     <key>afii10084</key>
     <integer>-70</integer>
-    <key>afii10085</key>
-    <integer>-84</integer>
     <key>afii10086</key>
     <integer>-100</integer>
-    <key>afii10087</key>
-    <integer>-97</integer>
     <key>afii10088</key>
     <integer>-70</integer>
     <key>afii10089</key>
@@ -4140,86 +3695,38 @@
     <integer>-126</integer>
     <key>afii10110</key>
     <integer>-13</integer>
+    <key>c</key>
+    <integer>-103</integer>
     <key>colon</key>
     <integer>-49</integer>
     <key>comma</key>
     <integer>-104</integer>
+    <key>e</key>
+    <integer>-100</integer>
     <key>guillemotright</key>
     <integer>-86</integer>
+    <key>hyphen</key>
+    <integer>-73</integer>
+    <key>kappa</key>
+    <integer>-65</integer>
+    <key>n</key>
+    <integer>-67</integer>
+    <key>o</key>
+    <integer>-100</integer>
     <key>period</key>
     <integer>-120</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-73</integer>
     <key>semicolon</key>
     <integer>-44</integer>
-  </dict>
-  <key>afii10038</key>
-  <dict>
-    <key>afii10017</key>
-    <integer>-41</integer>
-    <key>afii10021</key>
-    <integer>-32</integer>
-    <key>afii10024</key>
-    <integer>14</integer>
-    <key>afii10029</key>
-    <integer>4</integer>
-    <key>afii10037</key>
-    <integer>-21</integer>
-    <key>afii10039</key>
-    <integer>-32</integer>
-    <key>afii10041</key>
-    <integer>-13</integer>
-    <key>afii10044</key>
-    <integer>26</integer>
-    <key>afii10049</key>
-    <integer>2</integer>
-    <key>afii10058</key>
-    <integer>6</integer>
-    <key>afii10062</key>
-    <integer>-31</integer>
-    <key>afii10069</key>
-    <integer>10</integer>
-    <key>afii10077</key>
-    <integer>-24</integer>
-    <key>afii10106</key>
-    <integer>-24</integer>
-  </dict>
-  <key>afii10039</key>
-  <dict>
-    <key>afii10025</key>
-    <integer>9</integer>
-    <key>afii10032</key>
-    <integer>-36</integer>
-    <key>afii10035</key>
-    <integer>-35</integer>
-    <key>afii10038</key>
-    <integer>-34</integer>
-    <key>afii10053</key>
-    <integer>-35</integer>
-    <key>afii10065</key>
-    <integer>-11</integer>
-    <key>afii10070</key>
-    <integer>-1</integer>
-    <key>afii10073</key>
-    <integer>12</integer>
-    <key>afii10080</key>
-    <integer>-13</integer>
-    <key>afii10083</key>
-    <integer>-7</integer>
-    <key>afii10084</key>
-    <integer>1</integer>
-    <key>afii10085</key>
-    <integer>-77</integer>
-    <key>afii10086</key>
-    <integer>-9</integer>
-    <key>afii10089</key>
-    <integer>-90</integer>
-    <key>afii10101</key>
-    <integer>-6</integer>
+    <key>u</key>
+    <integer>-73</integer>
+    <key>x</key>
+    <integer>-97</integer>
+    <key>y</key>
+    <integer>-84</integer>
   </dict>
   <key>afii10044</key>
   <dict>
-    <key>afii10036</key>
+    <key>T</key>
     <integer>-45</integer>
     <key>afii10037</key>
     <integer>-11</integer>
@@ -4234,7 +3741,7 @@
   </dict>
   <key>afii10046</key>
   <dict>
-    <key>afii10036</key>
+    <key>T</key>
     <integer>-45</integer>
     <key>afii10037</key>
     <integer>-11</integer>
@@ -4251,14 +3758,14 @@
   </dict>
   <key>afii10047</key>
   <dict>
-    <key>afii10017</key>
+    <key>A</key>
     <integer>-58</integer>
+    <key>T</key>
+    <integer>-17</integer>
     <key>afii10021</key>
     <integer>-49</integer>
     <key>afii10029</key>
     <integer>-12</integer>
-    <key>afii10036</key>
-    <integer>-17</integer>
     <key>afii10037</key>
     <integer>-39</integer>
     <key>afii10041</key>
@@ -4278,8 +3785,12 @@
   </dict>
   <key>afii10048</key>
   <dict>
-    <key>afii10017</key>
+    <key>A</key>
     <integer>-35</integer>
+    <key>T</key>
+    <integer>5</integer>
+    <key>X</key>
+    <integer>-29</integer>
     <key>afii10021</key>
     <integer>-27</integer>
     <key>afii10024</key>
@@ -4288,12 +3799,8 @@
     <integer>23</integer>
     <key>afii10029</key>
     <integer>11</integer>
-    <key>afii10036</key>
-    <integer>5</integer>
     <key>afii10037</key>
     <integer>-21</integer>
-    <key>afii10039</key>
-    <integer>-29</integer>
     <key>afii10041</key>
     <integer>-27</integer>
     <key>afii10044</key>
@@ -4313,20 +3820,22 @@
   </dict>
   <key>afii10050</key>
   <dict>
+    <key>C</key>
+    <integer>-59</integer>
+    <key>O</key>
+    <integer>-60</integer>
+    <key>Phi</key>
+    <integer>-77</integer>
+    <key>T</key>
+    <integer>6</integer>
+    <key>a</key>
+    <integer>-155</integer>
     <key>afii10021</key>
     <integer>-29</integer>
     <key>afii10029</key>
     <integer>-63</integer>
-    <key>afii10032</key>
-    <integer>-60</integer>
-    <key>afii10035</key>
-    <integer>-59</integer>
-    <key>afii10036</key>
-    <integer>6</integer>
     <key>afii10037</key>
     <integer>22</integer>
-    <key>afii10038</key>
-    <integer>-77</integer>
     <key>afii10041</key>
     <integer>29</integer>
     <key>afii10049</key>
@@ -4339,44 +3848,26 @@
     <integer>10</integer>
     <key>afii10062</key>
     <integer>16</integer>
-    <key>afii10065</key>
-    <integer>-155</integer>
     <key>afii10067</key>
     <integer>-153</integer>
     <key>afii10069</key>
     <integer>-63</integer>
-    <key>afii10070</key>
-    <integer>-147</integer>
     <key>afii10072</key>
     <integer>-147</integer>
     <key>afii10073</key>
     <integer>-149</integer>
-    <key>afii10074</key>
-    <integer>-160</integer>
-    <key>afii10076</key>
-    <integer>-157</integer>
     <key>afii10077</key>
     <integer>-134</integer>
     <key>afii10078</key>
     <integer>-131</integer>
     <key>afii10079</key>
     <integer>-157</integer>
-    <key>afii10080</key>
-    <integer>-153</integer>
-    <key>afii10081</key>
-    <integer>-157</integer>
     <key>afii10082</key>
     <integer>-152</integer>
-    <key>afii10083</key>
-    <integer>-149</integer>
     <key>afii10084</key>
     <integer>-160</integer>
-    <key>afii10085</key>
-    <integer>-171</integer>
     <key>afii10086</key>
     <integer>-137</integer>
-    <key>afii10087</key>
-    <integer>-126</integer>
     <key>afii10088</key>
     <integer>-160</integer>
     <key>afii10089</key>
@@ -4393,23 +3884,41 @@
     <integer>-134</integer>
     <key>afii10110</key>
     <integer>-27</integer>
+    <key>c</key>
+    <integer>-149</integer>
+    <key>e</key>
+    <integer>-147</integer>
+    <key>kappa</key>
+    <integer>-157</integer>
+    <key>n</key>
+    <integer>-157</integer>
+    <key>o</key>
+    <integer>-153</integer>
+    <key>u</key>
+    <integer>-160</integer>
+    <key>x</key>
+    <integer>-126</integer>
+    <key>y</key>
+    <integer>-171</integer>
   </dict>
   <key>afii10052</key>
   <dict>
+    <key>C</key>
+    <integer>-3</integer>
+    <key>O</key>
+    <integer>-4</integer>
+    <key>Phi</key>
+    <integer>11</integer>
+    <key>T</key>
+    <integer>9</integer>
+    <key>a</key>
+    <integer>-79</integer>
     <key>afii10021</key>
     <integer>-39</integer>
     <key>afii10029</key>
     <integer>-65</integer>
-    <key>afii10032</key>
-    <integer>-4</integer>
-    <key>afii10035</key>
-    <integer>-3</integer>
-    <key>afii10036</key>
-    <integer>9</integer>
     <key>afii10037</key>
     <integer>13</integer>
-    <key>afii10038</key>
-    <integer>11</integer>
     <key>afii10041</key>
     <integer>19</integer>
     <key>afii10053</key>
@@ -4420,44 +3929,26 @@
     <integer>13</integer>
     <key>afii10062</key>
     <integer>6</integer>
-    <key>afii10065</key>
-    <integer>-79</integer>
     <key>afii10067</key>
     <integer>-73</integer>
     <key>afii10069</key>
     <integer>-54</integer>
-    <key>afii10070</key>
-    <integer>-70</integer>
     <key>afii10072</key>
     <integer>-53</integer>
     <key>afii10073</key>
     <integer>-56</integer>
-    <key>afii10074</key>
-    <integer>-8</integer>
-    <key>afii10076</key>
-    <integer>2</integer>
     <key>afii10077</key>
     <integer>-82</integer>
     <key>afii10078</key>
     <integer>-78</integer>
     <key>afii10079</key>
     <integer>-3</integer>
-    <key>afii10080</key>
-    <integer>-71</integer>
-    <key>afii10081</key>
-    <integer>-3</integer>
     <key>afii10082</key>
     <integer>2</integer>
-    <key>afii10083</key>
-    <integer>-70</integer>
     <key>afii10084</key>
     <integer>-6</integer>
-    <key>afii10085</key>
-    <integer>-21</integer>
     <key>afii10086</key>
     <integer>-56</integer>
-    <key>afii10087</key>
-    <integer>-45</integer>
     <key>afii10088</key>
     <integer>-2</integer>
     <key>afii10089</key>
@@ -4474,10 +3965,26 @@
     <integer>-82</integer>
     <key>afii10110</key>
     <integer>-14</integer>
+    <key>c</key>
+    <integer>-70</integer>
+    <key>e</key>
+    <integer>-70</integer>
+    <key>kappa</key>
+    <integer>2</integer>
+    <key>n</key>
+    <integer>-3</integer>
+    <key>o</key>
+    <integer>-71</integer>
+    <key>u</key>
+    <integer>-8</integer>
+    <key>x</key>
+    <integer>-45</integer>
+    <key>y</key>
+    <integer>-21</integer>
   </dict>
   <key>afii10058</key>
   <dict>
-    <key>afii10036</key>
+    <key>T</key>
     <integer>-38</integer>
     <key>afii10037</key>
     <integer>-3</integer>
@@ -4494,7 +4001,7 @@
   </dict>
   <key>afii10059</key>
   <dict>
-    <key>afii10036</key>
+    <key>T</key>
     <integer>-38</integer>
     <key>afii10037</key>
     <integer>-4</integer>
@@ -4511,32 +4018,24 @@
   </dict>
   <key>afii10061</key>
   <dict>
+    <key>C</key>
+    <integer>-14</integer>
+    <key>O</key>
+    <integer>-10</integer>
+    <key>Phi</key>
+    <integer>-6</integer>
+    <key>a</key>
+    <integer>-8</integer>
     <key>afii10025</key>
     <integer>18</integer>
-    <key>afii10032</key>
-    <integer>-10</integer>
-    <key>afii10035</key>
-    <integer>-14</integer>
-    <key>afii10038</key>
-    <integer>-6</integer>
     <key>afii10053</key>
     <integer>-14</integer>
-    <key>afii10065</key>
-    <integer>-8</integer>
     <key>afii10066</key>
     <integer>-5</integer>
-    <key>afii10070</key>
-    <integer>1</integer>
     <key>afii10073</key>
     <integer>-2</integer>
-    <key>afii10080</key>
-    <integer>-5</integer>
-    <key>afii10083</key>
-    <integer>-1</integer>
     <key>afii10084</key>
     <integer>-29</integer>
-    <key>afii10085</key>
-    <integer>-22</integer>
     <key>afii10086</key>
     <integer>-5</integer>
     <key>afii10089</key>
@@ -4545,23 +4044,33 @@
     <integer>-1</integer>
     <key>afii10110</key>
     <integer>-7</integer>
+    <key>c</key>
+    <integer>-1</integer>
+    <key>e</key>
+    <integer>1</integer>
+    <key>o</key>
+    <integer>-5</integer>
+    <key>y</key>
+    <integer>-22</integer>
   </dict>
   <key>afii10062</key>
   <dict>
-    <key>afii10017</key>
+    <key>A</key>
     <integer>-127</integer>
+    <key>C</key>
+    <integer>-52</integer>
+    <key>O</key>
+    <integer>-53</integer>
+    <key>Phi</key>
+    <integer>-65</integer>
+    <key>T</key>
+    <integer>12</integer>
+    <key>a</key>
+    <integer>-123</integer>
     <key>afii10021</key>
     <integer>-26</integer>
     <key>afii10029</key>
     <integer>-58</integer>
-    <key>afii10032</key>
-    <integer>-53</integer>
-    <key>afii10035</key>
-    <integer>-52</integer>
-    <key>afii10036</key>
-    <integer>12</integer>
-    <key>afii10038</key>
-    <integer>-65</integer>
     <key>afii10041</key>
     <integer>32</integer>
     <key>afii10049</key>
@@ -4574,42 +4083,26 @@
     <integer>16</integer>
     <key>afii10062</key>
     <integer>19</integer>
-    <key>afii10065</key>
-    <integer>-123</integer>
     <key>afii10066</key>
     <integer>-87</integer>
     <key>afii10069</key>
     <integer>-56</integer>
-    <key>afii10070</key>
-    <integer>-115</integer>
     <key>afii10072</key>
     <integer>-109</integer>
     <key>afii10073</key>
     <integer>-109</integer>
-    <key>afii10074</key>
-    <integer>-80</integer>
-    <key>afii10076</key>
-    <integer>-72</integer>
     <key>afii10077</key>
     <integer>-140</integer>
     <key>afii10078</key>
     <integer>-137</integer>
     <key>afii10079</key>
     <integer>-74</integer>
-    <key>afii10080</key>
-    <integer>-121</integer>
-    <key>afii10081</key>
-    <integer>-74</integer>
     <key>afii10082</key>
     <integer>-72</integer>
-    <key>afii10083</key>
-    <integer>-117</integer>
     <key>afii10084</key>
     <integer>-77</integer>
     <key>afii10086</key>
     <integer>-114</integer>
-    <key>afii10087</key>
-    <integer>-109</integer>
     <key>afii10088</key>
     <integer>-77</integer>
     <key>afii10089</key>
@@ -4622,19 +4115,20 @@
     <integer>-117</integer>
     <key>afii10106</key>
     <integer>-140</integer>
-  </dict>
-  <key>afii10065</key>
-  <dict>
-    <key>afii10084</key>
-    <integer>-11</integer>
-    <key>afii10085</key>
-    <integer>-24</integer>
-    <key>afii10089</key>
-    <integer>-22</integer>
-    <key>afii10106</key>
-    <integer>14</integer>
-    <key>afii10110</key>
-    <integer>6</integer>
+    <key>c</key>
+    <integer>-117</integer>
+    <key>e</key>
+    <integer>-115</integer>
+    <key>kappa</key>
+    <integer>-72</integer>
+    <key>n</key>
+    <integer>-74</integer>
+    <key>o</key>
+    <integer>-121</integer>
+    <key>u</key>
+    <integer>-80</integer>
+    <key>x</key>
+    <integer>-109</integer>
   </dict>
   <key>afii10066</key>
   <dict>
@@ -4644,16 +4138,16 @@
     <integer>-1</integer>
     <key>afii10084</key>
     <integer>-12</integer>
-    <key>afii10085</key>
-    <integer>7</integer>
-    <key>afii10087</key>
-    <integer>4</integer>
     <key>afii10089</key>
     <integer>-19</integer>
     <key>afii10097</key>
     <integer>5</integer>
     <key>afii10110</key>
     <integer>14</integer>
+    <key>x</key>
+    <integer>4</integer>
+    <key>y</key>
+    <integer>7</integer>
   </dict>
   <key>afii10067</key>
   <dict>
@@ -4663,12 +4157,12 @@
     <integer>-12</integer>
     <key>afii10084</key>
     <integer>-21</integer>
-    <key>afii10085</key>
-    <integer>-16</integer>
-    <key>afii10087</key>
-    <integer>-2</integer>
     <key>afii10089</key>
     <integer>-18</integer>
+    <key>x</key>
+    <integer>-2</integer>
+    <key>y</key>
+    <integer>-16</integer>
   </dict>
   <key>afii10068</key>
   <dict>
@@ -4676,10 +4170,6 @@
     <integer>-3</integer>
     <key>afii10077</key>
     <integer>8</integer>
-    <key>afii10080</key>
-    <integer>-3</integer>
-    <key>afii10083</key>
-    <integer>1</integer>
     <key>afii10086</key>
     <integer>-1</integer>
     <key>afii10097</key>
@@ -4690,52 +4180,39 @@
     <integer>8</integer>
     <key>afii10110</key>
     <integer>3</integer>
+    <key>c</key>
+    <integer>1</integer>
     <key>colon</key>
     <integer>36</integer>
     <key>comma</key>
     <integer>22</integer>
+    <key>hyphen</key>
+    <integer>21</integer>
+    <key>o</key>
+    <integer>-3</integer>
     <key>period</key>
     <integer>9</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>21</integer>
     <key>semicolon</key>
     <integer>40</integer>
-  </dict>
-  <key>afii10070</key>
-  <dict>
-    <key>afii10072</key>
-    <integer>-15</integer>
-    <key>afii10073</key>
-    <integer>-17</integer>
-    <key>afii10077</key>
-    <integer>-7</integer>
-    <key>afii10085</key>
-    <integer>-2</integer>
-    <key>afii10089</key>
-    <integer>-10</integer>
-    <key>afii10097</key>
-    <integer>-4</integer>
-    <key>afii10110</key>
-    <integer>4</integer>
   </dict>
   <key>afii10072</key>
   <dict>
     <key>afii10066</key>
     <integer>-2</integer>
-    <key>afii10070</key>
-    <integer>-5</integer>
     <key>afii10073</key>
     <integer>-9</integer>
-    <key>afii10080</key>
-    <integer>-11</integer>
-    <key>afii10083</key>
-    <integer>-7</integer>
     <key>afii10086</key>
     <integer>-8</integer>
     <key>afii10101</key>
     <integer>-10</integer>
     <key>afii10110</key>
     <integer>9</integer>
+    <key>c</key>
+    <integer>-7</integer>
+    <key>e</key>
+    <integer>-5</integer>
+    <key>o</key>
+    <integer>-11</integer>
   </dict>
   <key>afii10073</key>
   <dict>
@@ -4745,10 +4222,6 @@
     <integer>-4</integer>
     <key>afii10084</key>
     <integer>-13</integer>
-    <key>afii10085</key>
-    <integer>2</integer>
-    <key>afii10087</key>
-    <integer>3</integer>
     <key>afii10089</key>
     <integer>-7</integer>
     <key>afii10097</key>
@@ -4757,51 +4230,15 @@
     <integer>-4</integer>
     <key>afii10110</key>
     <integer>9</integer>
+    <key>x</key>
+    <integer>3</integer>
+    <key>y</key>
+    <integer>2</integer>
   </dict>
   <key>afii10075</key>
   <dict>
     <key>afii10106</key>
     <integer>3</integer>
-  </dict>
-  <key>afii10076</key>
-  <dict>
-    <key>afii10065</key>
-    <integer>-16</integer>
-    <key>afii10066</key>
-    <integer>-5</integer>
-    <key>afii10070</key>
-    <integer>-8</integer>
-    <key>afii10073</key>
-    <integer>-7</integer>
-    <key>afii10080</key>
-    <integer>-14</integer>
-    <key>afii10083</key>
-    <integer>-10</integer>
-    <key>afii10086</key>
-    <integer>-11</integer>
-    <key>afii10101</key>
-    <integer>-13</integer>
-    <key>afii10110</key>
-    <integer>-1</integer>
-  </dict>
-  <key>afii10080</key>
-  <dict>
-    <key>afii10073</key>
-    <integer>-3</integer>
-    <key>afii10077</key>
-    <integer>-6</integer>
-    <key>afii10084</key>
-    <integer>-11</integer>
-    <key>afii10085</key>
-    <integer>7</integer>
-    <key>afii10087</key>
-    <integer>1</integer>
-    <key>afii10092</key>
-    <integer>10</integer>
-    <key>afii10106</key>
-    <integer>-6</integer>
-    <key>afii10110</key>
-    <integer>14</integer>
   </dict>
   <key>afii10082</key>
   <dict>
@@ -4813,10 +4250,6 @@
     <integer>-23</integer>
     <key>afii10084</key>
     <integer>-23</integer>
-    <key>afii10085</key>
-    <integer>-4</integer>
-    <key>afii10087</key>
-    <integer>-10</integer>
     <key>afii10089</key>
     <integer>-25</integer>
     <key>afii10097</key>
@@ -4827,60 +4260,27 @@
     <integer>2</integer>
     <key>colon</key>
     <integer>26</integer>
+    <key>hyphen</key>
+    <integer>18</integer>
     <key>period</key>
     <integer>-14</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>18</integer>
     <key>semicolon</key>
     <integer>29</integer>
-  </dict>
-  <key>afii10083</key>
-  <dict>
-    <key>afii10062</key>
-    <integer>-41</integer>
-    <key>afii10065</key>
-    <integer>-25</integer>
-    <key>afii10072</key>
-    <integer>-17</integer>
-    <key>afii10073</key>
-    <integer>-21</integer>
-    <key>afii10077</key>
-    <integer>-13</integer>
-    <key>afii10080</key>
-    <integer>-22</integer>
-    <key>afii10084</key>
-    <integer>-28</integer>
-    <key>afii10085</key>
-    <integer>-6</integer>
-    <key>afii10086</key>
-    <integer>-16</integer>
-    <key>afii10087</key>
-    <integer>-6</integer>
-    <key>afii10089</key>
-    <integer>-14</integer>
-    <key>afii10097</key>
-    <integer>-8</integer>
-    <key>afii10106</key>
-    <integer>-13</integer>
+    <key>x</key>
+    <integer>-10</integer>
+    <key>y</key>
+    <integer>-4</integer>
   </dict>
   <key>afii10084</key>
   <dict>
     <key>afii10069</key>
     <integer>2</integer>
-    <key>afii10070</key>
-    <integer>9</integer>
     <key>afii10073</key>
     <integer>12</integer>
     <key>afii10077</key>
     <integer>15</integer>
-    <key>afii10080</key>
-    <integer>2</integer>
-    <key>afii10083</key>
-    <integer>6</integer>
     <key>afii10084</key>
     <integer>-14</integer>
-    <key>afii10085</key>
-    <integer>-27</integer>
     <key>afii10086</key>
     <integer>2</integer>
     <key>afii10089</key>
@@ -4891,59 +4291,26 @@
     <integer>6</integer>
     <key>afii10106</key>
     <integer>15</integer>
+    <key>c</key>
+    <integer>6</integer>
     <key>colon</key>
     <integer>38</integer>
     <key>comma</key>
     <integer>33</integer>
+    <key>e</key>
+    <integer>9</integer>
     <key>guillemotright</key>
     <integer>7</integer>
+    <key>hyphen</key>
+    <integer>24</integer>
+    <key>o</key>
+    <integer>2</integer>
     <key>period</key>
     <integer>19</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>24</integer>
     <key>semicolon</key>
     <integer>41</integer>
-  </dict>
-  <key>afii10085</key>
-  <dict>
-    <key>afii10065</key>
-    <integer>-20</integer>
-    <key>afii10069</key>
-    <integer>-14</integer>
-    <key>afii10070</key>
-    <integer>-11</integer>
-    <key>afii10073</key>
-    <integer>-17</integer>
-    <key>afii10077</key>
-    <integer>-39</integer>
-    <key>afii10080</key>
-    <integer>-17</integer>
-    <key>afii10083</key>
-    <integer>-14</integer>
-    <key>afii10084</key>
-    <integer>-9</integer>
-    <key>afii10086</key>
-    <integer>-11</integer>
-    <key>afii10089</key>
-    <integer>1</integer>
-    <key>afii10097</key>
-    <integer>-19</integer>
-    <key>afii10101</key>
-    <integer>-14</integer>
-    <key>afii10106</key>
-    <integer>-39</integer>
-    <key>colon</key>
-    <integer>30</integer>
-    <key>comma</key>
-    <integer>-12</integer>
-    <key>guillemotright</key>
-    <integer>-13</integer>
-    <key>period</key>
-    <integer>-26</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>7</integer>
-    <key>semicolon</key>
-    <integer>29</integer>
+    <key>y</key>
+    <integer>-27</integer>
   </dict>
   <key>afii10086</key>
   <dict>
@@ -4957,10 +4324,6 @@
     <integer>-8</integer>
     <key>afii10084</key>
     <integer>-14</integer>
-    <key>afii10085</key>
-    <integer>4</integer>
-    <key>afii10087</key>
-    <integer>1</integer>
     <key>afii10089</key>
     <integer>-16</integer>
     <key>afii10092</key>
@@ -4971,59 +4334,44 @@
     <integer>-8</integer>
     <key>afii10110</key>
     <integer>11</integer>
-  </dict>
-  <key>afii10087</key>
-  <dict>
-    <key>afii10065</key>
-    <integer>-15</integer>
-    <key>afii10070</key>
-    <integer>-6</integer>
-    <key>afii10073</key>
-    <integer>-9</integer>
-    <key>afii10080</key>
-    <integer>-9</integer>
-    <key>afii10083</key>
-    <integer>-9</integer>
-    <key>afii10086</key>
-    <integer>-5</integer>
-    <key>afii10101</key>
-    <integer>-9</integer>
-    <key>afii10110</key>
-    <integer>12</integer>
+    <key>x</key>
+    <integer>1</integer>
+    <key>y</key>
+    <integer>4</integer>
   </dict>
   <key>afii10092</key>
   <dict>
-    <key>afii10070</key>
-    <integer>-4</integer>
-    <key>afii10083</key>
-    <integer>-6</integer>
     <key>afii10084</key>
     <integer>-23</integer>
-    <key>afii10085</key>
-    <integer>-15</integer>
     <key>afii10089</key>
     <integer>-35</integer>
     <key>afii10092</key>
     <integer>-25</integer>
     <key>afii10110</key>
     <integer>-8</integer>
+    <key>c</key>
+    <integer>-6</integer>
+    <key>e</key>
+    <integer>-4</integer>
+    <key>y</key>
+    <integer>-15</integer>
   </dict>
   <key>afii10094</key>
   <dict>
-    <key>afii10070</key>
-    <integer>-4</integer>
-    <key>afii10083</key>
-    <integer>-7</integer>
     <key>afii10084</key>
     <integer>-24</integer>
-    <key>afii10085</key>
-    <integer>-15</integer>
     <key>afii10089</key>
     <integer>-35</integer>
     <key>afii10092</key>
     <integer>-25</integer>
     <key>afii10110</key>
     <integer>-8</integer>
+    <key>c</key>
+    <integer>-7</integer>
+    <key>e</key>
+    <integer>-4</integer>
+    <key>y</key>
+    <integer>-15</integer>
   </dict>
   <key>afii10095</key>
   <dict>
@@ -5031,8 +4379,6 @@
     <integer>-7</integer>
     <key>afii10084</key>
     <integer>-10</integer>
-    <key>afii10085</key>
-    <integer>8</integer>
     <key>afii10089</key>
     <integer>-18</integer>
     <key>afii10092</key>
@@ -5043,6 +4389,8 @@
     <integer>-7</integer>
     <key>afii10110</key>
     <integer>15</integer>
+    <key>y</key>
+    <integer>8</integer>
   </dict>
   <key>afii10096</key>
   <dict>
@@ -5052,10 +4400,6 @@
     <integer>-6</integer>
     <key>afii10084</key>
     <integer>-11</integer>
-    <key>afii10085</key>
-    <integer>7</integer>
-    <key>afii10087</key>
-    <integer>1</integer>
     <key>afii10089</key>
     <integer>-18</integer>
     <key>afii10092</key>
@@ -5064,6 +4408,10 @@
     <integer>-6</integer>
     <key>afii10110</key>
     <integer>14</integer>
+    <key>x</key>
+    <integer>1</integer>
+    <key>y</key>
+    <integer>7</integer>
   </dict>
   <key>afii10098</key>
   <dict>
@@ -5071,10 +4419,6 @@
     <integer>-50</integer>
     <key>afii10077</key>
     <integer>-51</integer>
-    <key>afii10080</key>
-    <integer>-53</integer>
-    <key>afii10083</key>
-    <integer>-52</integer>
     <key>afii10086</key>
     <integer>-41</integer>
     <key>afii10097</key>
@@ -5083,6 +4427,10 @@
     <integer>-53</integer>
     <key>afii10106</key>
     <integer>-51</integer>
+    <key>c</key>
+    <integer>-52</integer>
+    <key>o</key>
+    <integer>-53</integer>
   </dict>
   <key>afii10100</key>
   <dict>
@@ -5090,10 +4438,6 @@
     <integer>-3</integer>
     <key>afii10077</key>
     <integer>8</integer>
-    <key>afii10080</key>
-    <integer>-3</integer>
-    <key>afii10083</key>
-    <integer>1</integer>
     <key>afii10086</key>
     <integer>-2</integer>
     <key>afii10097</key>
@@ -5102,68 +4446,68 @@
     <integer>1</integer>
     <key>afii10106</key>
     <integer>8</integer>
+    <key>c</key>
+    <integer>1</integer>
+    <key>o</key>
+    <integer>-3</integer>
   </dict>
   <key>afii10106</key>
   <dict>
     <key>afii10084</key>
     <integer>-17</integer>
-    <key>afii10085</key>
-    <integer>-7</integer>
     <key>afii10089</key>
     <integer>-28</integer>
     <key>afii10092</key>
     <integer>-17</integer>
     <key>afii10110</key>
     <integer>1</integer>
+    <key>y</key>
+    <integer>-7</integer>
   </dict>
   <key>afii10107</key>
   <dict>
-    <key>afii10070</key>
-    <integer>2</integer>
     <key>afii10084</key>
     <integer>-17</integer>
-    <key>afii10085</key>
-    <integer>-7</integer>
     <key>afii10089</key>
     <integer>-28</integer>
     <key>afii10092</key>
     <integer>-17</integer>
     <key>afii10110</key>
     <integer>1</integer>
+    <key>e</key>
+    <integer>2</integer>
+    <key>y</key>
+    <integer>-7</integer>
   </dict>
   <key>afii10109</key>
   <dict>
-    <key>afii10065</key>
+    <key>a</key>
     <integer>-2</integer>
     <key>afii10066</key>
     <integer>11</integer>
-    <key>afii10070</key>
-    <integer>6</integer>
     <key>afii10073</key>
     <integer>4</integer>
-    <key>afii10080</key>
-    <integer>3</integer>
-    <key>afii10083</key>
-    <integer>3</integer>
     <key>afii10086</key>
     <integer>6</integer>
     <key>afii10101</key>
     <integer>3</integer>
     <key>afii10110</key>
     <integer>5</integer>
+    <key>c</key>
+    <integer>3</integer>
+    <key>e</key>
+    <integer>6</integer>
+    <key>o</key>
+    <integer>3</integer>
   </dict>
   <key>afii10110</key>
   <dict>
-    <key>afii10065</key>
+    <key>a</key>
     <integer>-6</integer>
-    <key>afii10070</key>
-    <integer>2</integer>
     <key>afii10073</key>
     <integer>-3</integer>
     <key>afii10077</key>
     <integer>-25</integer>
-    <key>afii10080</key>
-    <integer>-3</integer>
     <key>afii10084</key>
     <integer>-2</integer>
     <key>afii10086</key>
@@ -5172,6 +4516,10 @@
     <integer>8</integer>
     <key>afii10097</key>
     <integer>-4</integer>
+    <key>e</key>
+    <integer>2</integer>
+    <key>o</key>
+    <integer>-3</integer>
   </dict>
   <key>agrave</key>
   <dict>
@@ -5197,8 +4545,6 @@
     <key>guillemotright</key>
     <integer>3</integer>
     <key>o</key>
-    <integer>-8</integer>
-    <key>omicron</key>
     <integer>-8</integer>
     <key>omicrontonos</key>
     <integer>-8</integer>
@@ -5243,8 +4589,6 @@
     <integer>-8</integer>
     <key>omega</key>
     <integer>-3</integer>
-    <key>omicron</key>
-    <integer>-8</integer>
     <key>period</key>
     <integer>15</integer>
     <key>semicolon</key>
@@ -5477,6 +4821,24 @@
     <integer>-25</integer>
     <key>ae</key>
     <integer>-18</integer>
+    <key>afii10062</key>
+    <integer>-41</integer>
+    <key>afii10072</key>
+    <integer>-17</integer>
+    <key>afii10073</key>
+    <integer>-21</integer>
+    <key>afii10077</key>
+    <integer>-13</integer>
+    <key>afii10084</key>
+    <integer>-28</integer>
+    <key>afii10086</key>
+    <integer>-16</integer>
+    <key>afii10089</key>
+    <integer>-14</integer>
+    <key>afii10097</key>
+    <integer>-8</integer>
+    <key>afii10106</key>
+    <integer>-13</integer>
     <key>asterisk</key>
     <integer>22</integer>
     <key>c</key>
@@ -5493,6 +4855,8 @@
     <integer>-22</integer>
     <key>h</key>
     <integer>-31</integer>
+    <key>hyphen</key>
+    <integer>-6</integer>
     <key>j</key>
     <integer>-49</integer>
     <key>k</key>
@@ -5509,8 +4873,6 @@
     <integer>-15</integer>
     <key>period</key>
     <integer>-16</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-6</integer>
     <key>question</key>
     <integer>-39</integer>
     <key>quotedblright</key>
@@ -5527,6 +4889,8 @@
     <integer>-27</integer>
     <key>udieresis</key>
     <integer>-27</integer>
+    <key>x</key>
+    <integer>-6</integer>
     <key>y</key>
     <integer>-6</integer>
   </dict>
@@ -5553,8 +4917,6 @@
     <integer>-30</integer>
     <key>omegatonos</key>
     <integer>-30</integer>
-    <key>omicron</key>
-    <integer>-29</integer>
     <key>omicrontonos</key>
     <integer>-29</integer>
     <key>theta</key>
@@ -5566,7 +4928,7 @@
   <dict>
     <key>endash</key>
     <integer>30</integer>
-    <key>public.kern2.hyphenminus</key>
+    <key>hyphen</key>
     <integer>15</integer>
     <key>quoteright</key>
     <integer>-6</integer>
@@ -5658,6 +5020,18 @@
     <integer>-27</integer>
     <key>adieresis</key>
     <integer>-27</integer>
+    <key>afii10072</key>
+    <integer>-15</integer>
+    <key>afii10073</key>
+    <integer>-17</integer>
+    <key>afii10077</key>
+    <integer>-7</integer>
+    <key>afii10089</key>
+    <integer>-10</integer>
+    <key>afii10097</key>
+    <integer>-4</integer>
+    <key>afii10110</key>
+    <integer>4</integer>
     <key>asterisk</key>
     <integer>26</integer>
     <key>b</key>
@@ -5678,6 +5052,8 @@
     <integer>-21</integer>
     <key>h</key>
     <integer>-30</integer>
+    <key>hyphen</key>
+    <integer>-14</integer>
     <key>j</key>
     <integer>-42</integer>
     <key>k</key>
@@ -5686,8 +5062,6 @@
     <integer>-29</integer>
     <key>period</key>
     <integer>-22</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-14</integer>
     <key>question</key>
     <integer>-38</integer>
     <key>quoteright</key>
@@ -5725,12 +5099,12 @@
     <integer>-18</integer>
     <key>g</key>
     <integer>-24</integer>
+    <key>hyphen</key>
+    <integer>-14</integer>
     <key>l</key>
     <integer>-29</integer>
     <key>period</key>
     <integer>-22</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-14</integer>
     <key>q</key>
     <integer>-16</integer>
     <key>question</key>
@@ -5849,8 +5223,6 @@
     <integer>-19</integer>
     <key>omegatonos</key>
     <integer>-19</integer>
-    <key>omicron</key>
-    <integer>-22</integer>
     <key>omicrontonos</key>
     <integer>-22</integer>
     <key>phi</key>
@@ -5882,8 +5254,6 @@
     <integer>-22</integer>
     <key>omega</key>
     <integer>-19</integer>
-    <key>omicron</key>
-    <integer>-22</integer>
     <key>phi</key>
     <integer>-22</integer>
     <key>semicolon</key>
@@ -5940,6 +5310,8 @@
     <integer>15</integer>
     <key>g</key>
     <integer>-16</integer>
+    <key>hyphen</key>
+    <integer>-15</integer>
     <key>i</key>
     <integer>21</integer>
     <key>iacute</key>
@@ -5962,8 +5334,6 @@
     <integer>29</integer>
     <key>period</key>
     <integer>-34</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-15</integer>
     <key>question</key>
     <integer>55</integer>
     <key>quotedblright</key>
@@ -6031,6 +5401,8 @@
     <integer>-28</integer>
     <key>h</key>
     <integer>-47</integer>
+    <key>hyphen</key>
+    <integer>-20</integer>
     <key>j</key>
     <integer>24</integer>
     <key>k</key>
@@ -6049,8 +5421,6 @@
     <integer>-19</integer>
     <key>period</key>
     <integer>-55</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-20</integer>
     <key>question</key>
     <integer>-37</integer>
     <key>quotedblright</key>
@@ -6094,8 +5464,6 @@
     <integer>-17</integer>
     <key>omegatonos</key>
     <integer>-17</integer>
-    <key>omicron</key>
-    <integer>-17</integer>
     <key>omicrontonos</key>
     <integer>-17</integer>
     <key>rho</key>
@@ -6118,7 +5486,7 @@
   </dict>
   <key>guillemotleft</key>
   <dict>
-    <key>Alpha</key>
+    <key>A</key>
     <integer>-30</integer>
     <key>Alphatonos</key>
     <integer>-47</integer>
@@ -6128,16 +5496,12 @@
     <integer>-57</integer>
     <key>Lambda</key>
     <integer>-30</integer>
-    <key>Tau</key>
+    <key>T</key>
     <integer>-31</integer>
-    <key>Upsilon</key>
+    <key>Y</key>
     <integer>-82</integer>
-    <key>afii10017</key>
-    <integer>-30</integer>
     <key>afii10029</key>
     <integer>12</integer>
-    <key>afii10036</key>
-    <integer>-31</integer>
     <key>afii10037</key>
     <integer>-37</integer>
     <key>afii10041</key>
@@ -6148,14 +5512,14 @@
     <integer>-16</integer>
     <key>afii10084</key>
     <integer>-17</integer>
-    <key>afii10085</key>
-    <integer>-15</integer>
     <key>afii10089</key>
     <integer>-5</integer>
     <key>nu</key>
     <integer>-18</integer>
     <key>tau</key>
     <integer>-20</integer>
+    <key>y</key>
+    <integer>-15</integer>
   </dict>
   <key>guillemotright</key>
   <dict>
@@ -6250,16 +5614,10 @@
     <integer>9</integer>
     <key>adieresis</key>
     <integer>9</integer>
-    <key>afii10017</key>
-    <integer>-7</integer>
-    <key>afii10036</key>
-    <integer>-49</integer>
     <key>afii10037</key>
     <integer>4</integer>
     <key>afii10084</key>
     <integer>-14</integer>
-    <key>afii10085</key>
-    <integer>-1</integer>
     <key>f</key>
     <integer>-21</integer>
     <key>g</key>
@@ -6381,6 +5739,8 @@
     <integer>-13</integer>
     <key>h</key>
     <integer>-25</integer>
+    <key>hyphen</key>
+    <integer>1</integer>
     <key>i</key>
     <integer>-19</integer>
     <key>j</key>
@@ -6403,8 +5763,6 @@
     <integer>-20</integer>
     <key>period</key>
     <integer>4</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>1</integer>
     <key>q</key>
     <integer>-7</integer>
     <key>question</key>
@@ -6436,14 +5794,30 @@
   </dict>
   <key>kappa</key>
   <dict>
+    <key>a</key>
+    <integer>-16</integer>
+    <key>afii10066</key>
+    <integer>-5</integer>
+    <key>afii10073</key>
+    <integer>-7</integer>
+    <key>afii10086</key>
+    <integer>-11</integer>
+    <key>afii10101</key>
+    <integer>-13</integer>
+    <key>afii10110</key>
+    <integer>-1</integer>
     <key>alpha</key>
     <integer>-13</integer>
     <key>alphatonos</key>
     <integer>-13</integer>
+    <key>c</key>
+    <integer>-10</integer>
     <key>comma</key>
     <integer>15</integer>
     <key>delta</key>
     <integer>-14</integer>
+    <key>e</key>
+    <integer>-8</integer>
     <key>epsilon</key>
     <integer>-10</integer>
     <key>epsilontonos</key>
@@ -6456,8 +5830,6 @@
     <integer>-10</integer>
     <key>omegatonos</key>
     <integer>-10</integer>
-    <key>omicron</key>
-    <integer>-14</integer>
     <key>omicrontonos</key>
     <integer>-14</integer>
     <key>period</key>
@@ -6512,8 +5884,6 @@
     <integer>20</integer>
     <key>omegatonos</key>
     <integer>20</integer>
-    <key>omicron</key>
-    <integer>17</integer>
     <key>omicrontonos</key>
     <integer>17</integer>
     <key>period</key>
@@ -6654,8 +6024,6 @@
     <integer>-20</integer>
     <key>omegatonos</key>
     <integer>-20</integer>
-    <key>omicron</key>
-    <integer>-23</integer>
     <key>omicrontonos</key>
     <integer>-23</integer>
     <key>period</key>
@@ -6675,6 +6043,18 @@
   <dict>
     <key>T</key>
     <integer>-45</integer>
+    <key>afii10073</key>
+    <integer>-3</integer>
+    <key>afii10077</key>
+    <integer>-6</integer>
+    <key>afii10084</key>
+    <integer>-11</integer>
+    <key>afii10092</key>
+    <integer>10</integer>
+    <key>afii10106</key>
+    <integer>-6</integer>
+    <key>afii10110</key>
+    <integer>14</integer>
     <key>alpha</key>
     <integer>2</integer>
     <key>asterisk</key>
@@ -6805,25 +6185,6 @@
     <key>tau</key>
     <integer>8</integer>
   </dict>
-  <key>omicron</key>
-  <dict>
-    <key>alpha</key>
-    <integer>2</integer>
-    <key>chi</key>
-    <integer>5</integer>
-    <key>gamma</key>
-    <integer>7</integer>
-    <key>lambda</key>
-    <integer>-6</integer>
-    <key>nu</key>
-    <integer>7</integer>
-    <key>pi</key>
-    <integer>4</integer>
-    <key>tau</key>
-    <integer>18</integer>
-    <key>upsilon</key>
-    <integer>-11</integer>
-  </dict>
   <key>omicrontonos</key>
   <dict>
     <key>chi</key>
@@ -6913,10 +6274,10 @@
     <integer>17</integer>
     <key>endash</key>
     <integer>32</integer>
+    <key>hyphen</key>
+    <integer>17</integer>
     <key>onesuperior</key>
     <integer>16</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>17</integer>
     <key>quotedblright</key>
     <integer>1</integer>
     <key>quoteright</key>
@@ -6943,8 +6304,6 @@
     <integer>-39</integer>
     <key>omegatonos</key>
     <integer>-35</integer>
-    <key>omicron</key>
-    <integer>-39</integer>
     <key>omicrontonos</key>
     <integer>-39</integer>
     <key>quoteright</key>
@@ -7355,6 +6714,8 @@
     <integer>-15</integer>
     <key>h</key>
     <integer>-32</integer>
+    <key>hyphen</key>
+    <integer>-35</integer>
     <key>i</key>
     <integer>9</integer>
     <key>j</key>
@@ -7391,8 +6752,6 @@
     <integer>8</integer>
     <key>period</key>
     <integer>-112</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-35</integer>
     <key>q</key>
     <integer>-4</integer>
     <key>question</key>
@@ -7551,14 +6910,14 @@
     <integer>-20</integer>
     <key>g</key>
     <integer>-14</integer>
+    <key>hyphen</key>
+    <integer>4</integer>
     <key>k</key>
     <integer>-18</integer>
     <key>p</key>
     <integer>-15</integer>
     <key>period</key>
     <integer>1</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>4</integer>
     <key>question</key>
     <integer>-30</integer>
     <key>quotedblright</key>
@@ -7706,6 +7065,8 @@
     <integer>-20</integer>
     <key>h</key>
     <integer>-27</integer>
+    <key>hyphen</key>
+    <integer>-2</integer>
     <key>i</key>
     <integer>4</integer>
     <key>j</key>
@@ -7724,8 +7085,6 @@
     <integer>4</integer>
     <key>period</key>
     <integer>-3</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>-2</integer>
     <key>q</key>
     <integer>-15</integer>
     <key>question</key>
@@ -7777,8 +7136,6 @@
     <integer>-53</integer>
     <key>omegatonos</key>
     <integer>-53</integer>
-    <key>omicron</key>
-    <integer>-56</integer>
     <key>omicrontonos</key>
     <integer>-56</integer>
     <key>period</key>
@@ -7960,6 +7317,8 @@
     <integer>24</integer>
     <key>g</key>
     <integer>-24</integer>
+    <key>hyphen</key>
+    <integer>10</integer>
     <key>i</key>
     <integer>-21</integer>
     <key>j</key>
@@ -7980,8 +7339,6 @@
     <integer>-16</integer>
     <key>period</key>
     <integer>-23</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>10</integer>
     <key>r</key>
     <integer>-22</integer>
     <key>s</key>
@@ -8037,6 +7394,8 @@
     <integer>-18</integer>
     <key>g</key>
     <integer>-19</integer>
+    <key>hyphen</key>
+    <integer>13</integer>
     <key>i</key>
     <integer>-16</integer>
     <key>j</key>
@@ -8057,8 +7416,6 @@
     <integer>-17</integer>
     <key>period</key>
     <integer>-20</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>13</integer>
     <key>question</key>
     <integer>-34</integer>
     <key>quotedblright</key>
@@ -8088,6 +7445,14 @@
   <dict>
     <key>a</key>
     <integer>-15</integer>
+    <key>afii10073</key>
+    <integer>-9</integer>
+    <key>afii10086</key>
+    <integer>-5</integer>
+    <key>afii10101</key>
+    <integer>-9</integer>
+    <key>afii10110</key>
+    <integer>12</integer>
     <key>asterisk</key>
     <integer>31</integer>
     <key>c</key>
@@ -8104,12 +7469,12 @@
     <integer>15</integer>
     <key>exclam</key>
     <integer>-10</integer>
+    <key>hyphen</key>
+    <integer>4</integer>
     <key>o</key>
     <integer>-9</integer>
     <key>odieresis</key>
     <integer>-9</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>4</integer>
     <key>q</key>
     <integer>-4</integer>
     <key>question</key>
@@ -8137,8 +7502,6 @@
     <integer>-40</integer>
     <key>omegatonos</key>
     <integer>-41</integer>
-    <key>omicron</key>
-    <integer>-40</integer>
     <key>omicrontonos</key>
     <integer>-40</integer>
     <key>upsilontonos</key>
@@ -8156,6 +7519,24 @@
     <integer>-20</integer>
     <key>ae</key>
     <integer>-14</integer>
+    <key>afii10069</key>
+    <integer>-14</integer>
+    <key>afii10073</key>
+    <integer>-17</integer>
+    <key>afii10077</key>
+    <integer>-39</integer>
+    <key>afii10084</key>
+    <integer>-9</integer>
+    <key>afii10086</key>
+    <integer>-11</integer>
+    <key>afii10089</key>
+    <integer>1</integer>
+    <key>afii10097</key>
+    <integer>-19</integer>
+    <key>afii10101</key>
+    <integer>-14</integer>
+    <key>afii10106</key>
+    <integer>-39</integer>
     <key>agrave</key>
     <integer>-20</integer>
     <key>aring</key>
@@ -8186,6 +7567,10 @@
     <integer>-18</integer>
     <key>g</key>
     <integer>-18</integer>
+    <key>guillemotright</key>
+    <integer>-13</integer>
+    <key>hyphen</key>
+    <integer>7</integer>
     <key>j</key>
     <integer>-24</integer>
     <key>l</key>
@@ -8204,8 +7589,6 @@
     <integer>-17</integer>
     <key>period</key>
     <integer>-26</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>7</integer>
     <key>question</key>
     <integer>-34</integer>
     <key>quotedblright</key>
@@ -8248,6 +7631,8 @@
     <integer>16</integer>
     <key>exclam</key>
     <integer>-13</integer>
+    <key>hyphen</key>
+    <integer>7</integer>
     <key>i</key>
     <integer>-16</integer>
     <key>o</key>
@@ -8256,8 +7641,6 @@
     <integer>-12</integer>
     <key>period</key>
     <integer>4</integer>
-    <key>public.kern2.hyphenminus</key>
-    <integer>7</integer>
     <key>semicolon</key>
     <integer>34</integer>
     <key>u</key>
@@ -8318,8 +7701,6 @@
     <integer>-48</integer>
     <key>omegatonos</key>
     <integer>-48</integer>
-    <key>omicron</key>
-    <integer>-58</integer>
     <key>omicrontonos</key>
     <integer>-58</integer>
     <key>upsilon</key>

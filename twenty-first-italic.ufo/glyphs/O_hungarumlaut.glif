@@ -3,34 +3,7 @@
   <advance width="778"/>
   <unicode hex="0150"/>
   <outline>
+    <component base="hungarumlaut" xOffset="238" yOffset="255"/>
     <component base="O"/>
-    <contour>
-      <point x="372" y="774" type="line"/>
-      <point x="413" y="774" type="line"/>
-      <point x="572" y="874" type="line" smooth="yes"/>
-      <point x="587" y="883"/>
-      <point x="597" y="899"/>
-      <point x="597" y="913" type="curve" smooth="yes"/>
-      <point x="597" y="932"/>
-      <point x="582" y="947"/>
-      <point x="562" y="947" type="curve" smooth="yes"/>
-      <point x="547" y="947"/>
-      <point x="535" y="940"/>
-      <point x="512" y="917" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="533" y="774" type="line"/>
-      <point x="574" y="774" type="line"/>
-      <point x="733" y="874" type="line" smooth="yes"/>
-      <point x="748" y="884"/>
-      <point x="758" y="899"/>
-      <point x="758" y="913" type="curve" smooth="yes"/>
-      <point x="758" y="932"/>
-      <point x="742" y="947"/>
-      <point x="723" y="947" type="curve" smooth="yes"/>
-      <point x="708" y="947"/>
-      <point x="696" y="940"/>
-      <point x="673" y="917" type="curve" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>

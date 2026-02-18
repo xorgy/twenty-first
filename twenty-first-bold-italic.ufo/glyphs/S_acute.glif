@@ -3,20 +3,7 @@
   <advance width="685"/>
   <unicode hex="015A"/>
   <outline>
+    <component base="acute" xOffset="126" yOffset="239"/>
     <component base="S"/>
-    <contour>
-      <point x="299" y="774" type="line"/>
-      <point x="353" y="774" type="line"/>
-      <point x="519" y="862" type="line" smooth="yes"/>
-      <point x="537" y="872"/>
-      <point x="547" y="888"/>
-      <point x="547" y="906" type="curve" smooth="yes"/>
-      <point x="547" y="935"/>
-      <point x="523" y="958"/>
-      <point x="493" y="958" type="curve" smooth="yes"/>
-      <point x="469" y="958"/>
-      <point x="456" y="950"/>
-      <point x="423" y="913" type="curve" smooth="yes"/>
-    </contour>
   </outline>
 </glyph>
