@@ -3,34 +3,7 @@
   <advance width="778"/>
   <unicode hex="1E85"/>
   <outline>
+    <component base="dieresis" xOffset="224"/>
     <component base="w"/>
-    <contour>
-      <point x="291" y="644" type="curve" smooth="yes"/>
-      <point x="264" y="644"/>
-      <point x="241" y="622"/>
-      <point x="241" y="594" type="curve" smooth="yes"/>
-      <point x="241" y="567"/>
-      <point x="264" y="544"/>
-      <point x="290" y="544" type="curve" smooth="yes"/>
-      <point x="319" y="544"/>
-      <point x="341" y="566"/>
-      <point x="341" y="594" type="curve" smooth="yes"/>
-      <point x="341" y="621"/>
-      <point x="318" y="644"/>
-    </contour>
-    <contour>
-      <point x="490" y="644" type="curve" smooth="yes"/>
-      <point x="463" y="644"/>
-      <point x="440" y="621"/>
-      <point x="440" y="594" type="curve" smooth="yes"/>
-      <point x="440" y="567"/>
-      <point x="463" y="544"/>
-      <point x="489" y="544" type="curve" smooth="yes"/>
-      <point x="518" y="544"/>
-      <point x="540" y="566"/>
-      <point x="540" y="594" type="curve" smooth="yes"/>
-      <point x="540" y="622"/>
-      <point x="518" y="644"/>
-    </contour>
   </outline>
 </glyph>

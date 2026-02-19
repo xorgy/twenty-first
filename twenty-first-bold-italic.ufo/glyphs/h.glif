@@ -2,6 +2,7 @@
 <glyph name="h" format="2">
   <advance width="685"/>
   <unicode hex="0068"/>
+  <unicode hex="04BB"/>
   <outline>
     <contour>
       <point x="376" y="736" type="line"/>

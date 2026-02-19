@@ -4,19 +4,6 @@
   <unicode hex="013F"/>
   <outline>
     <component base="L"/>
-    <contour>
-      <point x="539" y="491" type="curve" smooth="yes"/>
-      <point x="487" y="491"/>
-      <point x="445" y="449"/>
-      <point x="445" y="397" type="curve" smooth="yes"/>
-      <point x="445" y="346"/>
-      <point x="487" y="303"/>
-      <point x="538" y="303" type="curve" smooth="yes"/>
-      <point x="591" y="303"/>
-      <point x="633" y="344"/>
-      <point x="633" y="397" type="curve" smooth="yes"/>
-      <point x="633" y="449"/>
-      <point x="591" y="491"/>
-    </contour>
+    <component base="period" xOffset="400" yOffset="318"/>
   </outline>
 </glyph>

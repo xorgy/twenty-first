@@ -2,35 +2,9 @@
 <glyph name="Idieresis" format="2">
   <advance width="444"/>
   <unicode hex="00CF"/>
+  <unicode hex="0407"/>
   <outline>
+    <component base="dieresis" xOffset="3" yOffset="248"/>
     <component base="I"/>
-    <contour>
-      <point x="212" y="933" type="curve" smooth="yes"/>
-      <point x="172" y="933"/>
-      <point x="140" y="901"/>
-      <point x="140" y="862" type="curve" smooth="yes"/>
-      <point x="140" y="822"/>
-      <point x="172" y="790"/>
-      <point x="211" y="790" type="curve" smooth="yes"/>
-      <point x="251" y="790"/>
-      <point x="283" y="821"/>
-      <point x="283" y="862" type="curve" smooth="yes"/>
-      <point x="283" y="901"/>
-      <point x="251" y="933"/>
-    </contour>
-    <contour>
-      <point x="427" y="933" type="curve" smooth="yes"/>
-      <point x="387" y="933"/>
-      <point x="355" y="901"/>
-      <point x="355" y="862" type="curve" smooth="yes"/>
-      <point x="355" y="822"/>
-      <point x="387" y="790"/>
-      <point x="426" y="790" type="curve" smooth="yes"/>
-      <point x="466" y="790"/>
-      <point x="498" y="821"/>
-      <point x="498" y="862" type="curve" smooth="yes"/>
-      <point x="498" y="901"/>
-      <point x="466" y="933"/>
-    </contour>
   </outline>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="j" format="2">
   <advance width="315"/>
   <unicode hex="006A"/>
+  <unicode hex="0458"/>
   <outline>
     <component base="dotlessj"/>
     <contour>

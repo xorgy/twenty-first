@@ -3,15 +3,7 @@
   <advance width="704"/>
   <unicode hex="017D"/>
   <outline>
+    <component base="caron" xOffset="108" yOffset="239"/>
     <component base="Z"/>
-    <contour>
-      <point x="632" y="950" type="line"/>
-      <point x="564" y="950" type="line"/>
-      <point x="438" y="862" type="line"/>
-      <point x="347" y="950" type="line"/>
-      <point x="289" y="950" type="line"/>
-      <point x="373" y="774" type="line"/>
-      <point x="475" y="774" type="line"/>
-    </contour>
   </outline>
 </glyph>
