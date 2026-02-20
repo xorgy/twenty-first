@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxDoubleVertical" format="2">
+  <advance width="1000"/>
+  <unicode hex="2551"/>
+  <outline>
+    <component base="boxLightVertical" xOffset="-66"/>
+    <component base="boxLightVertical" xOffset="66"/>
+  </outline>
+</glyph>

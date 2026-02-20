@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tackleft" format="2">
+  <advance width="996"/>
+  <unicode hex="22A3"/>
+  <outline>
+    <contour>
+      <point x="810" y="557" type="line"/>
+      <point x="743" y="557" type="line"/>
+      <point x="743" y="312" type="line"/>
+      <point x="181" y="312" type="line"/>
+      <point x="181" y="245" type="line"/>
+      <point x="743" y="245" type="line"/>
+      <point x="743" y="0" type="line"/>
+      <point x="810" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

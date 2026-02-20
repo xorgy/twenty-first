@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enclosingcirclecomb" format="2">
+  <advance width="996"/>
+  <unicode hex="20DD"/>
+  <outline>
+    <contour>
+      <point x="504" y="716" type="curve" smooth="yes"/>
+      <point x="302" y="716"/>
+      <point x="141" y="559"/>
+      <point x="141" y="362" type="curve" smooth="yes"/>
+      <point x="141" y="162"/>
+      <point x="299" y="2"/>
+      <point x="498" y="2" type="curve" smooth="yes"/>
+      <point x="695" y="2"/>
+      <point x="855" y="162"/>
+      <point x="855" y="359" type="curve" smooth="yes"/>
+      <point x="855" y="553"/>
+      <point x="695" y="716"/>
+    </contour>
+    <contour>
+      <point x="493" y="659" type="curve" smooth="yes"/>
+      <point x="662" y="659"/>
+      <point x="798" y="527"/>
+      <point x="798" y="361" type="curve" smooth="yes"/>
+      <point x="798" y="194"/>
+      <point x="664" y="59"/>
+      <point x="498" y="59" type="curve" smooth="yes"/>
+      <point x="332" y="59"/>
+      <point x="198" y="193"/>
+      <point x="198" y="359" type="curve" smooth="yes"/>
+      <point x="198" y="522"/>
+      <point x="332" y="659"/>
+    </contour>
+  </outline>
+</glyph>

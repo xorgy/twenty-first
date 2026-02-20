@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rtblock" format="2">
-  <advance width="1000"/>
-  <unicode hex="2590"/>
-  <outline>
-    <component base="lfblock" xOffset="500"/>
-  </outline>
-</glyph>

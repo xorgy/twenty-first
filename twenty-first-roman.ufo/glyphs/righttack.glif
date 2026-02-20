@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="righttack" format="2">
+  <advance width="996"/>
+  <unicode hex="22A2"/>
+  <outline>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="247" y="245" type="line"/>
+      <point x="810" y="245" type="line"/>
+      <point x="810" y="312" type="line"/>
+      <point x="247" y="312" type="line"/>
+      <point x="247" y="557" type="line"/>
+      <point x="181" y="557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="afii10061" format="2">
-  <advance width="778"/>
-  <unicode hex="040C"/>
-  <outline>
-    <component base="acute" xOffset="283" yOffset="239"/>
-    <component base="afii10028"/>
-  </outline>
-</glyph>

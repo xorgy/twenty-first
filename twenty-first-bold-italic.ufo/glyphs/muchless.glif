@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="muchless" format="2">
+  <advance width="996"/>
+  <unicode hex="226A"/>
+  <outline>
+    <contour>
+      <point x="824" y="583" type="line"/>
+      <point x="169" y="292" type="line"/>
+      <point x="169" y="249" type="line"/>
+      <point x="824" y="-43" type="line"/>
+      <point x="824" y="33" type="line"/>
+      <point x="287" y="270" type="line"/>
+      <point x="824" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="824" y="445" type="line"/>
+      <point x="426" y="270" type="line"/>
+      <point x="824" y="94" type="line"/>
+      <point x="824" y="170" type="line"/>
+      <point x="593" y="270" type="line"/>
+      <point x="824" y="369" type="line"/>
+    </contour>
+  </outline>
+</glyph>

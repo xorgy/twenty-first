@@ -5,6 +5,6 @@
   <outline>
     <component base="period" xOffset="8"/>
     <component base="periodcentered" xOffset="312" yOffset="-186"/>
-    <component base="uni0387" xOffset="645" yOffset="-186"/>
+    <component base="anoteleia" xOffset="645" yOffset="-186"/>
   </outline>
 </glyph>

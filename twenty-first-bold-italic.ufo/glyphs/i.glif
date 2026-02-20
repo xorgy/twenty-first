@@ -4,7 +4,7 @@
   <unicode hex="0069"/>
   <unicode hex="0456"/>
   <outline>
-    <component base="dotlessi" xOffset="-10"/>
+    <component base="idotless" xOffset="-10"/>
     <contour>
       <point x="248" y="737" type="curve" smooth="yes"/>
       <point x="201" y="737"/>

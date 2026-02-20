@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0387" format="2">
-  <advance width="278"/>
-  <unicode hex="0387"/>
-  <outline>
-    <component base="period" xOffset="2" yOffset="198"/>
-  </outline>
-</glyph>
